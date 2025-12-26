@@ -1,0 +1,41 @@
+[
+  {
+    "7": "shoulder",
+    "8": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "14": "cervical",
+    "15": "radiculopathies",
+    "status": "Neurological"
+  },
+  {
+    "20": "cardiac",
+    "status": "Cardiovascular"
+  },
+  {
+    "21": "pulmonary",
+    "status": "Respiratory"
+  },
+  {
+    "22": "GI",
+    "status": "None"
+  },
+  {
+    "23": "GU",
+    "status": "None"
+  },
+  {
+    "24": "neurologic",
+    "status": "None"
+  },
+  {
+    "25": "musculoskeletal",
+    "status": "None"
+  },
+  {
+    "26": "endocrine",
+    "27": "abnormalities",
+    "status": "Endocrine"
+  }
+]

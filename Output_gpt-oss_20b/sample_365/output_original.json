@@ -1,0 +1,152 @@
+[
+  {
+    "extract": "General",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "HEENT",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "allergies",
+    "status": "positive",
+    "sys": "Allergic/Immunologic"
+  },
+  {
+    "extract": "sneezing",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sore throat",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "Pulmonary",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "Cardiovascular",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitations",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "hypertension",
+    "status": "positive",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "blood in the stool",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "Neurologic",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "paresthesias to the toes of both feet",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "Musculoskeletal",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "shoulder pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "Psychiatric",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "insomnia",
+    "status": "positive",
+    "sys": "Psychiatric"
+  },
+  {
+    "extract": "Dermatologic",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "spot on her right cheek",
+    "status": "positive",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "Metabolic",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "hypothyroidism",
+    "status": "positive",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "Hematologic",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "essential thrombocythemia",
+    "status": "positive",
+    "sys": "Hematologic/Lymphatic"
+  },
+  {
+    "extract": "anemia",
+    "status": "positive",
+    "sys": "Hematologic/Lymphatic"
+  }
+]

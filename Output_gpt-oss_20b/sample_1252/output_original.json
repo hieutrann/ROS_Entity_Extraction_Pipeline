@@ -1,0 +1,52 @@
+[
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "sinus congestion",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "nasal drainage",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "cold symptoms",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "head trauma",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "nausea",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  }
+]

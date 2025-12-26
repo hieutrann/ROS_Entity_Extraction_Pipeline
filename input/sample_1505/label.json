@@ -1,0 +1,59 @@
+[
+  {
+    "5": "fever",
+    "status": "problem"
+  },
+  {
+    "11": "cough",
+    "status": "problem"
+  },
+  {
+    "13": "shortness",
+    "14": "of",
+    "15": "breath",
+    "status": "problem"
+  },
+  {
+    "20": "chest",
+    "21": "pain",
+    "status": "problem"
+  },
+  {
+    "24": "nausea",
+    "status": "problem"
+  },
+  {
+    "26": "vomiting",
+    "status": "problem"
+  },
+  {
+    "30": "GI",
+    "31": "bleed",
+    "status": "problem"
+  },
+  {
+    "34": "dysuria",
+    "status": "problem"
+  },
+  {
+    "36": "hematuria",
+    "status": "problem"
+  },
+  {
+    "40": "diabetes",
+    "status": "problem"
+  },
+  {
+    "42": "thyroid",
+    "43": "problems",
+    "status": "problem"
+  },
+  {
+    "48": "CVA",
+    "status": "problem"
+  },
+  {
+    "50": "TIA",
+    "status": "problem"
+  }
+]

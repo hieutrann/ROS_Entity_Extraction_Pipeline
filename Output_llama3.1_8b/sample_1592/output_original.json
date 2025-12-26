@@ -1,0 +1,102 @@
+[
+  {
+    "extract": "weakness",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "fatigue",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "tiredness",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "cataract",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "glaucoma",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "congestive heart failure",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "arrhythmias",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pneumonia",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "valley fever",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "hematemesis",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "melena",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "urgency",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "arthritis",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "muscle weakness",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "TIA",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "CVA",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "seizure disorder",
+    "status": "negative",
+    "sys": "Neurological"
+  }
+]

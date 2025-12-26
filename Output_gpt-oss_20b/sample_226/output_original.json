@@ -1,0 +1,117 @@
+[
+  {
+    "extract": "viral illness",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "nausea",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "low appetite",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "fevers",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "malaise",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "congestion",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "cold",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "coughing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "sore throat",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "troubled breathing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "abdominal symptoms",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "urinary symptoms",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "darkening of the skin",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "darkening of the eyes",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "yellowing of the urine",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "darkening of the urine",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "rash to the skin",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "local infection at the side of the fingerstick",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "7": "fever",
+    "status": "problem"
+  },
+  {
+    "8": "chills",
+    "status": "problem"
+  },
+  {
+    "9": "ulcers",
+    "status": "problem"
+  },
+  {
+    "10": "liver",
+    "11": "disease",
+    "status": "problem"
+  },
+  {
+    "13": "history",
+    "14": "of",
+    "15": "gallstones",
+    "status": "problem"
+  }
+]

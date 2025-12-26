@@ -1,0 +1,113 @@
+[
+  {
+    "11": "migraine",
+    "12": "headaches",
+    "status": "Neurological"
+  },
+  {
+    "26": "floaters",
+    "status": "Eyes"
+  },
+  {
+    "30": "low-grade",
+    "31": "temperature",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "37": "mild",
+    "38": "intermittent",
+    "39": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "40": "scratchy",
+    "41": "throat",
+    "status": "ENT"
+  },
+  {
+    "51": "intermittent",
+    "52": "right",
+    "53": "calf",
+    "54": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "65": "Homans",
+    "66": "sign",
+    "status": "None"
+  },
+  {
+    "75": "chest",
+    "76": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "77": "palpitation",
+    "status": "Cardiovascular"
+  },
+  {
+    "78": "pain",
+    "79": "in",
+    "80": "the",
+    "81": "upper",
+    "82": "neck",
+    "83": "and",
+    "84": "down",
+    "status": "Musculoskeletal"
+  },
+  {
+    "88": "difficulty",
+    "89": "breathing",
+    "status": "Respiratory"
+  },
+  {
+    "90": "shortness",
+    "91": "of",
+    "92": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "94": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "98": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "99": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "101": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "106": "constipated",
+    "status": "Gastrointestinal"
+  },
+  {
+    "124": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "125": "urinary",
+    "126": "frequency",
+    "status": "Genitourinary"
+  },
+  {
+    "127": "incomplete",
+    "128": "bladder",
+    "129": "emptying",
+    "status": "Genitourinary"
+  },
+  {
+    "131": "voiding",
+    "132": "difficulties",
+    "status": "Genitourinary"
+  },
+  {
+    "151": "pregnant",
+    "status": "None"
+  }
+]

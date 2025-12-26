@@ -1,0 +1,34 @@
+[
+  {
+    "6": "chest",
+    "7": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "11": "exertional",
+    "12": "shortness",
+    "13": "of",
+    "14": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "18": "GI",
+    "19": "problems",
+    "status": "Gastrointestinal"
+  },
+  {
+    "23": "frequent",
+    "24": "urination",
+    "status": "Genitourinary"
+  },
+  {
+    "30": "bleeding",
+    "31": "disorders",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "33": "bleeding",
+    "34": "history",
+    "status": "Hematologic/Lymphatic"
+  }
+]

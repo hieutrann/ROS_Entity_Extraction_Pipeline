@@ -1,0 +1,93 @@
+[
+  {
+    "4": "chills",
+    "status": "problem"
+  },
+  {
+    "5": "fever",
+    "status": "problem"
+  },
+  {
+    "6": "shakes",
+    "7": "or",
+    "8": "tremors",
+    "status": "problem"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "problem"
+  },
+  {
+    "12": "palpitations",
+    "status": "problem"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "problem"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "problem"
+  },
+  {
+    "17": "nausea",
+    "status": "problem"
+  },
+  {
+    "18": "vomiting",
+    "status": "problem"
+  },
+  {
+    "19": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "20": "constipation",
+    "status": "problem"
+  },
+  {
+    "22": "hematemesis",
+    "status": "problem"
+  },
+  {
+    "39": "dysuria",
+    "status": "problem"
+  },
+  {
+    "40": "frequency",
+    "status": "problem"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "problem"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "problem"
+  },
+  {
+    "56": "numbness",
+    "57": "and",
+    "58": "tingling",
+    "59": "of",
+    "60": "his",
+    "61": "hands",
+    "62": "bilaterally",
+    "status": "problem"
+  },
+  {
+    "78": "seizure",
+    "79": "disorders",
+    "status": "problem"
+  },
+  {
+    "89": "dizziness",
+    "status": "problem"
+  }
+]

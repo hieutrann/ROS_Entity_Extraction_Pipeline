@@ -1,0 +1,87 @@
+[
+  {
+    "5": "weakness",
+    "status": "problem"
+  },
+  {
+    "6": "fatigue",
+    "status": "problem"
+  },
+  {
+    "8": "tiredness",
+    "status": "problem"
+  },
+  {
+    "13": "cataract",
+    "status": "problem"
+  },
+  {
+    "15": "glaucoma",
+    "status": "problem"
+  },
+  {
+    "18": "congestive",
+    "19": "heart",
+    "20": "failure",
+    "status": "problem"
+  },
+  {
+    "22": "arrhythmias",
+    "status": "problem"
+  },
+  {
+    "27": "pneumonia",
+    "status": "problem"
+  },
+  {
+    "29": "valley",
+    "30": "fever",
+    "status": "problem"
+  },
+  {
+    "33": "nausea",
+    "status": "problem"
+  },
+  {
+    "34": "vomiting",
+    "status": "problem"
+  },
+  {
+    "35": "hematemesis",
+    "status": "problem"
+  },
+  {
+    "37": "melena",
+    "status": "problem"
+  },
+  {
+    "40": "frequency",
+    "status": "problem"
+  },
+  {
+    "42": "urgency",
+    "status": "problem"
+  },
+  {
+    "44": "Arthritis",
+    "status": "problem"
+  },
+  {
+    "46": "muscle",
+    "47": "weakness",
+    "status": "problem"
+  },
+  {
+    "52": "TIA",
+    "status": "problem"
+  },
+  {
+    "54": "CVA",
+    "status": "problem"
+  },
+  {
+    "56": "seizure",
+    "57": "disorder",
+    "status": "problem"
+  }
+]

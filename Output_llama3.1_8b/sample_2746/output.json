@@ -1,0 +1,180 @@
+[
+  {
+    "10": "fatigue",
+    "status": "problem"
+  },
+  {
+    "39": "fever",
+    "status": "problem"
+  },
+  {
+    "41": "chills",
+    "status": "problem"
+  },
+  {
+    "54": "headache",
+    "status": "problem"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "problem"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "problem"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "problem"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "problem"
+  },
+  {
+    "68": "vision",
+    "status": "problem"
+  },
+  {
+    "70": "hearing",
+    "71": "change",
+    "status": "problem"
+  },
+  {
+    "73": "eye",
+    "74": "or",
+    "75": "ear",
+    "76": "pain",
+    "status": "problem"
+  },
+  {
+    "75": "ear",
+    "76": "pain",
+    "status": "problem"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "problem"
+  },
+  {
+    "86": "shortness",
+    "87": "of",
+    "88": "breath",
+    "status": "problem"
+  },
+  {
+    "92": "wheeze",
+    "status": "problem"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "problem"
+  },
+  {
+    "137": "nausea",
+    "138": "or",
+    "139": "vomiting",
+    "status": "problem"
+  },
+  {
+    "141": "change",
+    "142": "in",
+    "143": "the",
+    "144": "bowel",
+    "145": "movements",
+    "status": "problem"
+  },
+  {
+    "151": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "153": "constipation",
+    "status": "problem"
+  },
+  {
+    "155": "melena",
+    "156": "or",
+    "157": "hematochezia",
+    "status": "problem"
+  },
+  {
+    "160": "dysuria",
+    "status": "problem"
+  },
+  {
+    "161": "hematuria",
+    "status": "problem"
+  },
+  {
+    "162": "urgency",
+    "status": "problem"
+  },
+  {
+    "164": "frequency",
+    "status": "problem"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "problem"
+  },
+  {
+    "170": "muscle",
+    "171": "or",
+    "172": "joint",
+    "173": "aches",
+    "status": "problem"
+  },
+  {
+    "193": "dizziness",
+    "status": "problem"
+  },
+  {
+    "226": "syncope",
+    "227": "or",
+    "228": "no",
+    "229": "near-syncope",
+    "status": "problem"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "236": "or",
+    "237": "numbness",
+    "status": "problem"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "problem"
+  },
+  {
+    "242": "difficulty",
+    "243": "with",
+    "244": "ambulation",
+    "status": "problem"
+  },
+  {
+    "186": "rashes",
+    "187": "or",
+    "188": "lesions",
+    "status": "problem"
+  },
+  {
+    "260": "depression",
+    "status": "problem"
+  },
+  {
+    "263": "heat",
+    "264": "or",
+    "265": "cold",
+    "266": "intolerance",
+    "status": "problem"
+  }
+]

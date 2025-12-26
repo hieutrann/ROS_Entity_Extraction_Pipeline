@@ -1,0 +1,43 @@
+[
+  {
+    "4": "lateral",
+    "5": "and",
+    "6": "posterior",
+    "7": "shoulder",
+    "8": "pain",
+    "status": "None"
+  },
+  {
+    "14": "cervical",
+    "15": "radiculopathies",
+    "status": "Neurological"
+  },
+  {
+    "20": "cardiac",
+    "status": "None"
+  },
+  {
+    "21": "pulmonary",
+    "status": "None"
+  },
+  {
+    "22": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "23": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "24": "neurologic",
+    "status": "None"
+  },
+  {
+    "25": "musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "26": "endocrine",
+    "status": "None"
+  }
+]

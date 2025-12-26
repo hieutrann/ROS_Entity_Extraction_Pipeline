@@ -1,0 +1,38 @@
+[
+  {
+    "5": "seizure",
+    "6": "disorder",
+    "status": "Neurological"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "16": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "17": "burning",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "19": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "22": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "24": "vomiting",
+    "status": "Gastrointestinal"
+  }
+]

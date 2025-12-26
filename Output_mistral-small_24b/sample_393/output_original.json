@@ -1,0 +1,217 @@
+[
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "night sweats",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "blindness",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "diplopia",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "loss of vision",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "hearing changes",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "ear problems",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "swallowing problems",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "mouth lesions",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "Hypothyroidism",
+    "status": "positive",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "polyuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "polydipsia",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "sputum production",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "hemoptysis",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "breathing problems",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "chest discomfort",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "paroxysmal nocturnal dyspnea",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "orthopnea",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "palpitations",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "heart attacks",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "Clostridium difficile colitis",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "irritable bowel syndrome",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "bowel abnormalities",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "urinary problems",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "polyuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "polydipsia",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "kidney stones",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "recent infections",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "vaginal bleeding",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "vaginal discharge",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "anemia",
+    "status": "positive",
+    "sys": "Hematologic/Lymphatic"
+  },
+  {
+    "extract": "blackouts",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "convulsions",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "seizures",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "paralysis",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "strokes",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "headaches",
+    "status": "negative",
+    "sys": "Neurological"
+  }
+]

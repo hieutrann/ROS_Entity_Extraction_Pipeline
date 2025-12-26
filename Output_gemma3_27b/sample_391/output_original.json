@@ -1,0 +1,72 @@
+[
+  {
+    "extract": "Constitutional",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "Eyes",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "ENT/Mouth",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "Cardiovascular",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "Respiratory",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "Musculoskeletal",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "Skin/Breasts",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "Neurologic",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "Psychiatric",
+    "status": "negative",
+    "sys": "Psychiatric"
+  },
+  {
+    "extract": "Endocrine",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "Heme/Lymph",
+    "status": "negative",
+    "sys": "Hematologic/Lymphatic"
+  },
+  {
+    "extract": "Allergies/Immune",
+    "status": "negative",
+    "sys": "Allergic/Immunologic"
+  }
+]

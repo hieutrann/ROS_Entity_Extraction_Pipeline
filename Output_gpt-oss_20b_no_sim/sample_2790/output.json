@@ -1,0 +1,106 @@
+[
+  {
+    "4": "chills",
+    "status": "problem"
+  },
+  {
+    "5": "fever",
+    "status": "problem"
+  },
+  {
+    "6": "shakes",
+    "status": "problem"
+  },
+  {
+    "8": "tremors",
+    "status": "problem"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "problem"
+  },
+  {
+    "12": "palpitations",
+    "status": "problem"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "problem"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "problem"
+  },
+  {
+    "17": "nausea",
+    "status": "problem"
+  },
+  {
+    "18": "vomiting",
+    "status": "problem"
+  },
+  {
+    "19": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "20": "constipation",
+    "status": "problem"
+  },
+  {
+    "22": "hematemesis",
+    "status": "problem"
+  },
+  {
+    "39": "dysuria",
+    "status": "problem"
+  },
+  {
+    "40": "frequency",
+    "status": "problem"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "problem"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "problem"
+  },
+  {
+    "78": "seizure",
+    "79": "disorders",
+    "status": "problem"
+  },
+  {
+    "88": "momentary",
+    "89": "dizziness",
+    "status": "problem"
+  },
+  {
+    "56": "numbness",
+    "status": "problem"
+  },
+  {
+    "58": "tingling",
+    "status": "problem"
+  },
+  {
+    "69": "bilateral",
+    "70": "carpal",
+    "71": "tunnel",
+    "72": "syndrome",
+    "status": "problem"
+  },
+  {
+    "35": "urological",
+    "36": "symptoms",
+    "status": "problem"
+  }
+]

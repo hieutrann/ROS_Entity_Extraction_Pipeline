@@ -1,0 +1,75 @@
+[
+  {
+    "5": "fever",
+    "status": "negative"
+  },
+  {
+    "4": "chills",
+    "status": "negative"
+  },
+  {
+    "6": "shakes",
+    "status": "negative"
+  },
+  {
+    "8": "tremors",
+    "status": "negative"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "negative"
+  },
+  {
+    "12": "palpitations",
+    "status": "negative"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "negative"
+  },
+  {
+    "17": "nausea",
+    "status": "negative"
+  },
+  {
+    "18": "vomiting",
+    "status": "negative"
+  },
+  {
+    "19": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "20": "constipation",
+    "status": "negative"
+  },
+  {
+    "22": "hematemesis",
+    "status": "negative"
+  },
+  {
+    "56": "numbness",
+    "status": "positive"
+  },
+  {
+    "58": "tingling",
+    "status": "positive"
+  },
+  {
+    "89": "dizziness",
+    "status": "positive"
+  },
+  {
+    "70": "carpal",
+    "71": "tunnel",
+    "72": "syndrome",
+    "status": "positive"
+  }
+]

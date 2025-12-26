@@ -1,0 +1,93 @@
+[
+  {
+    "4": "chills",
+    "status": "negative"
+  },
+  {
+    "5": "fever",
+    "status": "positive"
+  },
+  {
+    "6": "shakes",
+    "7": "or",
+    "8": "tremors",
+    "status": "negative"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "negative"
+  },
+  {
+    "12": "palpitations",
+    "status": "negative"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "negative"
+  },
+  {
+    "17": "nausea",
+    "status": "negative"
+  },
+  {
+    "18": "vomiting",
+    "status": "negative"
+  },
+  {
+    "19": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "20": "constipation",
+    "status": "negative"
+  },
+  {
+    "22": "hematemesis",
+    "status": "negative"
+  },
+  {
+    "39": "dysuria",
+    "status": "negative"
+  },
+  {
+    "40": "frequency",
+    "status": "negative"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "negative"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "negative"
+  },
+  {
+    "56": "numbness",
+    "57": "and",
+    "58": "tingling",
+    "59": "of",
+    "60": "his",
+    "61": "hands",
+    "62": "bilaterally",
+    "status": "positive"
+  },
+  {
+    "78": "seizure",
+    "79": "disorders",
+    "status": "negative"
+  },
+  {
+    "89": "dizziness",
+    "status": "resolved"
+  }
+]

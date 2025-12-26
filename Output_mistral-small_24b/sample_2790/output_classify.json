@@ -1,0 +1,93 @@
+[
+  {
+    "4": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "5": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "shakes",
+    "7": "or",
+    "8": "tremors",
+    "status": "Neurological"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "12": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "17": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "18": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "19": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "20": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "22": "hematemesis",
+    "status": "Gastrointestinal"
+  },
+  {
+    "39": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "40": "frequency",
+    "status": "None"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "Genitourinary"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "Genitourinary"
+  },
+  {
+    "56": "numbness",
+    "57": "and",
+    "58": "tingling",
+    "59": "of",
+    "60": "his",
+    "61": "hands",
+    "62": "bilaterally",
+    "status": "Neurological"
+  },
+  {
+    "78": "seizure",
+    "79": "disorders",
+    "status": "Neurological"
+  },
+  {
+    "89": "dizziness",
+    "status": "Neurological"
+  }
+]

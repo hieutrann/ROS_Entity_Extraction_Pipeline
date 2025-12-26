@@ -1,0 +1,246 @@
+[
+  {
+    "9": "generalized",
+    "10": "fatigue",
+    "status": "negative"
+  },
+  {
+    "12": "weakness",
+    "status": "negative"
+  },
+  {
+    "39": "fever",
+    "status": "negative"
+  },
+  {
+    "41": "chills",
+    "status": "negative"
+  },
+  {
+    "47": "weight",
+    "48": "change",
+    "status": "negative"
+  },
+  {
+    "54": "headache",
+    "status": "negative"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "negative"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "negative"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "negative"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "negative"
+  },
+  {
+    "68": "vision",
+    "69": "or",
+    "70": "hearing",
+    "71": "change",
+    "status": "negative"
+  },
+  {
+    "73": "eye",
+    "74": "or",
+    "75": "ear",
+    "76": "pain",
+    "status": "negative"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "negative"
+  },
+  {
+    "86": "shortness",
+    "87": "of",
+    "88": "breath",
+    "status": "negative"
+  },
+  {
+    "90": "cough",
+    "status": "negative"
+  },
+  {
+    "92": "wheeze",
+    "status": "negative"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "negative"
+  },
+  {
+    "137": "nausea",
+    "138": "or",
+    "139": "vomiting",
+    "status": "negative"
+  },
+  {
+    "141": "change",
+    "142": "in",
+    "143": "the",
+    "144": "bowel",
+    "145": "movements",
+    "status": "negative"
+  },
+  {
+    "151": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "153": "constipation",
+    "status": "negative"
+  },
+  {
+    "155": "melena",
+    "status": "negative"
+  },
+  {
+    "157": "hematochezia",
+    "status": "negative"
+  },
+  {
+    "160": "dysuria",
+    "status": "negative"
+  },
+  {
+    "161": "hematuria",
+    "status": "negative"
+  },
+  {
+    "162": "urgency",
+    "status": "negative"
+  },
+  {
+    "164": "frequency",
+    "status": "negative"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "negative"
+  },
+  {
+    "170": "muscle",
+    "171": "or",
+    "172": "joint",
+    "173": "aches",
+    "status": "negative"
+  },
+  {
+    "175": "pain",
+    "176": "or",
+    "177": "abnormalities",
+    "178": "to",
+    "179": "any",
+    "180": "portion",
+    "181": "of",
+    "182": "the",
+    "183": "body",
+    "status": "negative"
+  },
+  {
+    "186": "rashes",
+    "187": "or",
+    "188": "lesions",
+    "status": "negative"
+  },
+  {
+    "193": "dizziness",
+    "status": "negative"
+  },
+  {
+    "226": "syncope",
+    "status": "negative"
+  },
+  {
+    "229": "near-syncope",
+    "status": "negative"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "236": "or",
+    "237": "numbness",
+    "status": "negative"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "negative"
+  },
+  {
+    "242": "difficulty",
+    "243": "with",
+    "244": "ambulation",
+    "status": "negative"
+  },
+  {
+    "260": "depression",
+    "status": "negative"
+  },
+  {
+    "263": "heat",
+    "264": "or",
+    "265": "cold",
+    "266": "intolerance",
+    "status": "negative"
+  },
+  {
+    "3": "CONSTITUTIONAL",
+    "status": "negative"
+  },
+  {
+    "49": "HEENT",
+    "status": "negative"
+  },
+  {
+    "77": "CARDIOVASCULAR",
+    "status": "negative"
+  },
+  {
+    "84": "RESPIRATIONS",
+    "status": "negative"
+  },
+  {
+    "132": "GASTROINTESTINAL",
+    "status": "negative"
+  },
+  {
+    "158": "GENITOURINARY",
+    "status": "negative"
+  },
+  {
+    "165": "MUSCULOSKELETAL",
+    "status": "negative"
+  },
+  {
+    "184": "SKIN",
+    "status": "negative"
+  },
+  {
+    "189": "NEUROLOGIC",
+    "status": "negative"
+  },
+  {
+    "255": "PSYCHIATRIC",
+    "status": "negative"
+  },
+  {
+    "261": "ENDOCRINE",
+    "status": "negative"
+  }
+]

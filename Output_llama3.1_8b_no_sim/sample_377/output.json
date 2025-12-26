@@ -1,0 +1,53 @@
+[
+  {
+    "15": "hearing",
+    "16": "loss",
+    "status": "problem"
+  },
+  {
+    "28": "shortness",
+    "29": "of",
+    "30": "breath",
+    "status": "problem"
+  },
+  {
+    "40": "cough",
+    "status": "problem"
+  },
+  {
+    "45": "bowel",
+    "46": "movements",
+    "status": "problem"
+  },
+  {
+    "49": "black",
+    "50": "or",
+    "51": "bloody",
+    "52": "stools",
+    "status": "problem"
+  },
+  {
+    "53": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "55": "constipation",
+    "status": "problem"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "problem"
+  },
+  {
+    "80": "edema",
+    "status": "problem"
+  },
+  {
+    "82": "lower",
+    "83": "extremity",
+    "84": "numbness",
+    "85": "or",
+    "86": "tingling",
+    "status": "problem"
+  }
+]

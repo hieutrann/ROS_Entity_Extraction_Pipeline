@@ -1,0 +1,67 @@
+[
+  {
+    "15": "hearing",
+    "16": "loss",
+    "17": "gradually",
+    "status": "positive"
+  },
+  {
+    "23": "swallowing",
+    "status": "negative"
+  },
+  {
+    "28": "shortness",
+    "29": "of",
+    "30": "breath",
+    "status": "negative"
+  },
+  {
+    "39": "chronic",
+    "40": "cough",
+    "status": "positive"
+  },
+  {
+    "45": "bowel",
+    "46": "movements",
+    "status": "negative"
+  },
+  {
+    "49": "black",
+    "50": "or",
+    "51": "bloody",
+    "52": "stools",
+    "status": "negative"
+  },
+  {
+    "53": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "55": "constipation",
+    "status": "negative"
+  },
+  {
+    "58": "blood",
+    "59": "in",
+    "60": "her",
+    "61": "urine",
+    "status": "negative"
+  },
+  {
+    "66": "urinary",
+    "67": "problems",
+    "status": "negative"
+  },
+  {
+    "80": "edema",
+    "status": "negative"
+  },
+  {
+    "82": "lower",
+    "83": "extremity",
+    "84": "numbness",
+    "85": "or",
+    "86": "tingling",
+    "status": "negative"
+  }
+]

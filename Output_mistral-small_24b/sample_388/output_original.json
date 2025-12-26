@@ -1,0 +1,17 @@
+[
+  {
+    "extract": "sore throat",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "earache",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  }
+]

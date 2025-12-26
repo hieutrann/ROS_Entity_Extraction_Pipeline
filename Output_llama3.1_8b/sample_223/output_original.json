@@ -1,0 +1,47 @@
+[
+  {
+    "extract": "shoulder pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "cervical radiculopathies",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "cardiac abnormalities",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pulmonary abnormalities",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI abnormalities",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU abnormalities",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "neurologic abnormalities",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "musculoskeletal abnormalities",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "endocrine abnormalities",
+    "status": "negative",
+    "sys": "Endocrine"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "10": "fatigue",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "235": "weakness",
+    "status": "Neurological"
+  },
+  {
+    "39": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "41": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "54": "headache",
+    "status": "Neurological"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "ENT"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "ENT"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "ENT"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "114": "shortness",
+    "115": "of",
+    "116": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "90": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "102": "wheeze",
+    "status": "Respiratory"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "137": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "139": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "151": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "153": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "155": "melena",
+    "status": "Gastrointestinal"
+  },
+  {
+    "157": "hematochezia",
+    "status": "Gastrointestinal"
+  },
+  {
+    "160": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "161": "hematuria",
+    "status": "Genitourinary"
+  },
+  {
+    "162": "urgency",
+    "status": "Psychiatric"
+  },
+  {
+    "164": "frequency",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Musculoskeletal"
+  },
+  {
+    "172": "joint",
+    "173": "aches",
+    "status": "Musculoskeletal"
+  },
+  {
+    "186": "rashes",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "188": "lesions",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "221": "dizziness",
+    "status": "Neurological"
+  },
+  {
+    "226": "syncope",
+    "status": "Cardiovascular"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "status": "Neurological"
+  },
+  {
+    "237": "numbness",
+    "status": "Neurological"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "Neurological"
+  },
+  {
+    "260": "depression",
+    "status": "Psychiatric"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Endocrine"
+  },
+  {
+    "265": "cold",
+    "266": "intolerance",
+    "status": "Endocrine"
+  }
+]

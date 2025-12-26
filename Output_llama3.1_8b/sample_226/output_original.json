@@ -1,0 +1,97 @@
+[
+  {
+    "extract": "nausea",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "low appetite",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "malaise",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "congestion",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "coughing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "sore throat",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "troubled breathing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "abdominal symptoms",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "urinary symptoms",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "darkening of the skin or eyes",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "yellowing or darkening of the urine",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "rash to the skin",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "local infection at the side of the fingerstick",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  }
+]

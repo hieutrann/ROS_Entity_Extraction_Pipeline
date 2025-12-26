@@ -1,0 +1,27 @@
+[
+  {
+    "6": "chest",
+    "7": "pain",
+    "status": "negative"
+  },
+  {
+    "12": "shortness",
+    "13": "of",
+    "14": "breath",
+    "status": "positive"
+  },
+  {
+    "18": "GI",
+    "19": "problems",
+    "status": "negative"
+  },
+  {
+    "24": "urination",
+    "status": "positive"
+  },
+  {
+    "30": "bleeding",
+    "31": "disorders",
+    "status": "negative"
+  }
+]

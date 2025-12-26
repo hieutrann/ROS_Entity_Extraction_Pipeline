@@ -1,0 +1,40 @@
+[
+  {
+    "4": "left",
+    "5": "eye",
+    "6": "pain",
+    "status": "positive"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  }
+]

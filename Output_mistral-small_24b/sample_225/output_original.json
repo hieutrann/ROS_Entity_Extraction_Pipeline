@@ -1,0 +1,57 @@
+[
+  {
+    "extract": "left eye pain",
+    "status": "positive",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "visual acuity",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "photophobia",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "cardiac",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pulmonary",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "GU",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "neurologic",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "musculoskeletal",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "endocrine",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "immunologic",
+    "status": "negative",
+    "sys": "None"
+  }
+]

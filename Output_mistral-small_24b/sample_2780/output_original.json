@@ -1,0 +1,27 @@
+[
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI problems",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "urination",
+    "status": "positive",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "bleeding disorders",
+    "status": "negative",
+    "sys": "Hematologic/Lymphatic"
+  }
+]

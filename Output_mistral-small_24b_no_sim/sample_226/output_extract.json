@@ -1,0 +1,107 @@
+[
+  {
+    "18": "viral",
+    "19": "illness",
+    "status": "negative"
+  },
+  {
+    "28": "nausea",
+    "status": "positive"
+  },
+  {
+    "33": "vomiting",
+    "status": "positive"
+  },
+  {
+    "42": "fevers",
+    "status": "negative"
+  },
+  {
+    "43": "chills",
+    "status": "negative"
+  },
+  {
+    "45": "malaise",
+    "status": "negative"
+  },
+  {
+    "47": "headache",
+    "status": "negative"
+  },
+  {
+    "49": "congestion",
+    "50": "or",
+    "51": "cold",
+    "status": "negative"
+  },
+  {
+    "53": "coughing",
+    "status": "negative"
+  },
+  {
+    "57": "sore",
+    "58": "throat",
+    "status": "negative"
+  },
+  {
+    "62": "chest",
+    "63": "pain",
+    "status": "negative"
+  },
+  {
+    "65": "troubled",
+    "66": "breathing",
+    "status": "negative"
+  },
+  {
+    "70": "abdominal",
+    "71": "symptoms",
+    "status": "positive"
+  },
+  {
+    "77": "abdominal",
+    "78": "pain",
+    "status": "negative"
+  },
+  {
+    "82": "urinary",
+    "83": "symptoms",
+    "status": "negative"
+  },
+  {
+    "85": "darkening",
+    "86": "of",
+    "87": "the",
+    "88": "skin",
+    "89": "or",
+    "90": "eyes",
+    "status": "negative"
+  },
+  {
+    "94": "yellowing",
+    "95": "or",
+    "96": "darkening",
+    "97": "of",
+    "98": "the",
+    "99": "urine",
+    "status": "negative"
+  },
+  {
+    "103": "rash",
+    "104": "to",
+    "105": "the",
+    "106": "skin",
+    "status": "negative"
+  },
+  {
+    "110": "local",
+    "111": "infection",
+    "112": "at",
+    "113": "the",
+    "114": "side",
+    "115": "of",
+    "116": "the",
+    "117": "fingerstick",
+    "status": "negative"
+  }
+]

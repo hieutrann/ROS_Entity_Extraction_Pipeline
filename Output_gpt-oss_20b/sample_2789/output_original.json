@@ -1,0 +1,112 @@
+[
+  {
+    "extract": "migraine headaches",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "floaters",
+    "status": "positive",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "low-grade temperature",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "mild intermittent cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "scratchy throat",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "intermittent right calf pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "Homans sign",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitation",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pain in upper neck and down to arm",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "difficulty breathing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "hemoptysis",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipated",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urinary frequency",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "incomplete bladder emptying",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "voiding difficulties",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "pregnancy",
+    "status": "negative",
+    "sys": "None"
+  }
+]

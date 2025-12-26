@@ -1,0 +1,102 @@
+[
+  {
+    "extract": "migraine headaches",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "floaters",
+    "status": "positive",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "temperature",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "scratchy throat",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "right calf pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "Homans sign",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "cardiopulmonary symptoms",
+    "status": "negative",
+    "sys": "Cardiovascular & Respiratory"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitation",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipated",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "urinary symptoms",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urinary frequency",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "incomplete bladder emptying",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "voiding difficulties",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "pregnancy",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  }
+]

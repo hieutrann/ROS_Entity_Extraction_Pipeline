@@ -1,0 +1,27 @@
+[
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "ulcers",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "liver disease",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "gallstones",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  }
+]

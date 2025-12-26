@@ -1,0 +1,67 @@
+[
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GI bleed",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "hematuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "diabetes",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "thyroid problems",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "CVA",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "TIA",
+    "status": "negative",
+    "sys": "Neurological"
+  }
+]

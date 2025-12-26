@@ -1,0 +1,82 @@
+[
+  {
+    "29": "allergies",
+    "status": "positive"
+  },
+  {
+    "12": "sneezing",
+    "status": "positive"
+  },
+  {
+    "14": "sore",
+    "15": "throat",
+    "status": "positive"
+  },
+  {
+    "26": "cough",
+    "status": "positive"
+  },
+  {
+    "34": "chest",
+    "35": "pain",
+    "status": "negative"
+  },
+  {
+    "37": "palpitations",
+    "status": "negative"
+  },
+  {
+    "41": "hypertension",
+    "status": "positive"
+  },
+  {
+    "46": "abdominal",
+    "47": "pain",
+    "status": "negative"
+  },
+  {
+    "49": "blood",
+    "50": "in",
+    "51": "the",
+    "52": "stool",
+    "status": "negative"
+  },
+  {
+    "57": "dysuria",
+    "status": "negative"
+  },
+  {
+    "59": "frequency",
+    "status": "negative"
+  },
+  {
+    "67": "paresthesias",
+    "status": "positive"
+  },
+  {
+    "82": "shoulder",
+    "83": "pain",
+    "status": "positive"
+  },
+  {
+    "88": "insomnia",
+    "status": "positive"
+  },
+  {
+    "94": "spot",
+    "status": "positive"
+  },
+  {
+    "111": "hypothyroidism",
+    "status": "positive"
+  },
+  {
+    "116": "essential",
+    "117": "thrombocythemia",
+    "status": "positive"
+  },
+  {
+    "119": "anemia",
+    "status": "positive"
+  }
+]

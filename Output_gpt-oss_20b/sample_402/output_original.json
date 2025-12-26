@@ -1,0 +1,17 @@
+[
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  }
+]

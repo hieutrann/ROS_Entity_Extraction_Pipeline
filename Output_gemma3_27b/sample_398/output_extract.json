@@ -1,0 +1,47 @@
+[
+  {
+    "3": "Dyspnea",
+    "4": "on",
+    "5": "exertion",
+    "status": "positive"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "negative"
+  },
+  {
+    "10": "tightness",
+    "status": "negative"
+  },
+  {
+    "11": "fever",
+    "status": "negative"
+  },
+  {
+    "12": "chills",
+    "status": "negative"
+  },
+  {
+    "13": "sweats",
+    "status": "negative"
+  },
+  {
+    "14": "cough",
+    "status": "negative"
+  },
+  {
+    "15": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "17": "wheeze",
+    "status": "negative"
+  },
+  {
+    "19": "lower",
+    "20": "extremity",
+    "21": "swelling",
+    "status": "negative"
+  }
+]

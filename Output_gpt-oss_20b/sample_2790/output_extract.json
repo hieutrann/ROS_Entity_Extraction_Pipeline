@@ -1,0 +1,106 @@
+[
+  {
+    "4": "chills",
+    "status": "negative"
+  },
+  {
+    "5": "fever",
+    "status": "negative"
+  },
+  {
+    "6": "shakes",
+    "status": "negative"
+  },
+  {
+    "8": "tremors",
+    "status": "negative"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "negative"
+  },
+  {
+    "12": "palpitations",
+    "status": "negative"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "negative"
+  },
+  {
+    "17": "nausea",
+    "status": "negative"
+  },
+  {
+    "18": "vomiting",
+    "status": "negative"
+  },
+  {
+    "19": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "20": "constipation",
+    "status": "negative"
+  },
+  {
+    "22": "hematemesis",
+    "status": "negative"
+  },
+  {
+    "39": "dysuria",
+    "status": "negative"
+  },
+  {
+    "40": "frequency",
+    "status": "negative"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "negative"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "negative"
+  },
+  {
+    "78": "seizure",
+    "79": "disorders",
+    "status": "negative"
+  },
+  {
+    "88": "momentary",
+    "89": "dizziness",
+    "status": "positive"
+  },
+  {
+    "56": "numbness",
+    "status": "positive"
+  },
+  {
+    "58": "tingling",
+    "status": "positive"
+  },
+  {
+    "69": "bilateral",
+    "70": "carpal",
+    "71": "tunnel",
+    "72": "syndrome",
+    "status": "positive"
+  },
+  {
+    "35": "urological",
+    "36": "symptoms",
+    "status": "negative"
+  }
+]

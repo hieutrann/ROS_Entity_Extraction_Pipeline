@@ -1,0 +1,67 @@
+[
+  {
+    "extract": "hearing loss",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "swallowing",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "chronic cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "bowel movements",
+    "status": "normal",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "black or bloody stools",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipation",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "blood in urine",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urinary problems",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "edema",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "lower extremity numbness",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "lower extremity tingling",
+    "status": "negative",
+    "sys": "Neurological"
+  }
+]

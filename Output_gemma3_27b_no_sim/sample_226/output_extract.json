@@ -1,0 +1,97 @@
+[
+  {
+    "28": "nausea",
+    "status": "positive"
+  },
+  {
+    "33": "vomiting",
+    "status": "positive"
+  },
+  {
+    "37": "low",
+    "38": "appetite",
+    "status": "positive"
+  },
+  {
+    "42": "fevers",
+    "status": "negative"
+  },
+  {
+    "43": "chills",
+    "status": "negative"
+  },
+  {
+    "45": "malaise",
+    "status": "negative"
+  },
+  {
+    "47": "headache",
+    "status": "negative"
+  },
+  {
+    "49": "congestion",
+    "status": "negative"
+  },
+  {
+    "51": "cold",
+    "status": "negative"
+  },
+  {
+    "53": "coughing",
+    "status": "negative"
+  },
+  {
+    "57": "sore",
+    "58": "throat",
+    "status": "negative"
+  },
+  {
+    "62": "chest",
+    "63": "pain",
+    "status": "negative"
+  },
+  {
+    "65": "troubled",
+    "66": "breathing",
+    "status": "negative"
+  },
+  {
+    "70": "abdominal",
+    "71": "symptoms",
+    "status": "positive"
+  },
+  {
+    "77": "abdominal",
+    "78": "pain",
+    "status": "negative"
+  },
+  {
+    "82": "urinary",
+    "83": "symptoms",
+    "status": "negative"
+  },
+  {
+    "85": "darkening",
+    "86": "of",
+    "87": "the",
+    "88": "skin",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "103": "rash",
+    "status": "negative"
+  },
+  {
+    "110": "local",
+    "111": "infection",
+    "status": "negative"
+  }
+]

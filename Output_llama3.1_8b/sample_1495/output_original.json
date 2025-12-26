@@ -1,0 +1,37 @@
+[
+  {
+    "extract": "pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "blurred vision",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  }
+]

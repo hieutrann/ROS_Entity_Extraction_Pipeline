@@ -1,0 +1,18 @@
+[
+  {
+    "16": "Allergies/Immune",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "12": "Neurologic",
+    "status": "Neurological"
+  },
+  {
+    "10": "Musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "8": "GI",
+    "status": "None"
+  }
+]

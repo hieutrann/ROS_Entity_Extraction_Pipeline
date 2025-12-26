@@ -1,0 +1,46 @@
+[
+  {
+    "4": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "sinus",
+    "9": "congestion",
+    "status": "ENT"
+  },
+  {
+    "11": "nasal",
+    "12": "drainage",
+    "status": "ENT"
+  },
+  {
+    "14": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "16": "cold",
+    "17": "symptoms",
+    "status": "ENT"
+  },
+  {
+    "19": "head",
+    "20": "trauma",
+    "status": "Neurological"
+  },
+  {
+    "22": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "24": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "26": "diarrhea",
+    "status": "Gastrointestinal"
+  }
+]

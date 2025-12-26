@@ -1,0 +1,57 @@
+[
+  {
+    "extract": "focal left eye pain",
+    "status": "positive",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "visual acuity",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "photophobia",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "cardiac",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pulmonary",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "neurologic",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "musculoskeletal",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "endocrine",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "immunologic",
+    "status": "negative",
+    "sys": "Allergic/Immunologic"
+  }
+]

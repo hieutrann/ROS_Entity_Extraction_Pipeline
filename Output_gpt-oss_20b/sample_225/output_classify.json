@@ -1,0 +1,50 @@
+[
+  {
+    "3": "Focal",
+    "4": "left",
+    "5": "eye",
+    "6": "pain",
+    "status": "Eyes"
+  },
+  {
+    "14": "photophobia",
+    "status": "Eyes"
+  },
+  {
+    "19": "ophthalmologic",
+    "20": "problems",
+    "status": "Eyes"
+  },
+  {
+    "25": "cardiac",
+    "status": "None"
+  },
+  {
+    "26": "pulmonary",
+    "status": "Respiratory"
+  },
+  {
+    "27": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "28": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "29": "neurologic",
+    "status": "None"
+  },
+  {
+    "30": "musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "31": "endocrine",
+    "status": "Endocrine"
+  },
+  {
+    "32": "immunologic",
+    "status": "None"
+  }
+]

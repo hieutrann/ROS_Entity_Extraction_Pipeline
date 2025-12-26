@@ -1,0 +1,140 @@
+[
+  {
+    "3": "General",
+    "status": "negative"
+  },
+  {
+    "5": "HEENT",
+    "status": "positive"
+  },
+  {
+    "29": "allergies",
+    "status": "positive"
+  },
+  {
+    "12": "sneezing",
+    "status": "positive"
+  },
+  {
+    "14": "sore",
+    "15": "throat",
+    "status": "positive"
+  },
+  {
+    "19": "Pulmonary",
+    "status": "positive"
+  },
+  {
+    "26": "cough",
+    "status": "positive"
+  },
+  {
+    "30": "Cardiovascular",
+    "status": "negative"
+  },
+  {
+    "34": "chest",
+    "35": "pain",
+    "status": "negative"
+  },
+  {
+    "37": "palpitations",
+    "status": "negative"
+  },
+  {
+    "41": "hypertension",
+    "status": "positive"
+  },
+  {
+    "42": "GI",
+    "status": "negative"
+  },
+  {
+    "46": "abdominal",
+    "47": "pain",
+    "status": "negative"
+  },
+  {
+    "49": "blood",
+    "50": "in",
+    "51": "the",
+    "52": "stool",
+    "status": "negative"
+  },
+  {
+    "53": "GU",
+    "status": "negative"
+  },
+  {
+    "57": "dysuria",
+    "status": "negative"
+  },
+  {
+    "59": "frequency",
+    "status": "negative"
+  },
+  {
+    "63": "Neurologic",
+    "status": "positive"
+  },
+  {
+    "67": "paresthesias",
+    "68": "to",
+    "69": "the",
+    "70": "toes",
+    "71": "of",
+    "72": "both",
+    "73": "feet",
+    "status": "positive"
+  },
+  {
+    "78": "Musculoskeletal",
+    "status": "positive"
+  },
+  {
+    "82": "shoulder",
+    "83": "pain",
+    "status": "positive"
+  },
+  {
+    "84": "Psychiatric",
+    "status": "positive"
+  },
+  {
+    "88": "insomnia",
+    "status": "positive"
+  },
+  {
+    "89": "Dermatologic",
+    "status": "positive"
+  },
+  {
+    "94": "spot",
+    "95": "on",
+    "96": "her",
+    "97": "right",
+    "98": "cheek",
+    "status": "positive"
+  },
+  {
+    "107": "Metabolic",
+    "status": "positive"
+  },
+  {
+    "111": "hypothyroidism",
+    "status": "positive"
+  },
+  {
+    "112": "Hematologic",
+    "status": "positive"
+  },
+  {
+    "116": "essential",
+    "117": "thrombocythemia",
+    "status": "positive"
+  },
+  {
+    "119": "anemia",
+    "status": "positive"
+  }
+]

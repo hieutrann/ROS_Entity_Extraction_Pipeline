@@ -1,0 +1,49 @@
+[
+  {
+    "4": "left",
+    "5": "eye",
+    "6": "pain",
+    "status": "Eyes"
+  },
+  {
+    "11": "visual",
+    "12": "acuity",
+    "status": "Eyes"
+  },
+  {
+    "14": "photophobia",
+    "status": "Eyes"
+  },
+  {
+    "25": "cardiac",
+    "status": "Cardiovascular"
+  },
+  {
+    "26": "pulmonary",
+    "status": "Respiratory"
+  },
+  {
+    "27": "GI",
+    "status": "None"
+  },
+  {
+    "28": "GU",
+    "status": "None"
+  },
+  {
+    "29": "neurologic",
+    "status": "None"
+  },
+  {
+    "30": "musculoskeletal",
+    "status": "None"
+  },
+  {
+    "31": "endocrine",
+    "status": "None"
+  },
+  {
+    "32": "immunologic",
+    "status": "None"
+  }
+]

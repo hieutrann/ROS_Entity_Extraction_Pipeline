@@ -1,0 +1,17 @@
+[
+  {
+    "extract": "febrile illnesses",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chest pains",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  }
+]

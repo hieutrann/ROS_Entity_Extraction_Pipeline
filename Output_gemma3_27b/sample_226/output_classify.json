@@ -1,0 +1,107 @@
+[
+  {
+    "28": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "33": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "37": "low",
+    "38": "appetite",
+    "status": "Gastrointestinal"
+  },
+  {
+    "42": "fevers",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "43": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "45": "malaise",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "47": "headache",
+    "status": "Neurological"
+  },
+  {
+    "49": "congestion",
+    "status": "Respiratory"
+  },
+  {
+    "51": "cold",
+    "status": "Respiratory"
+  },
+  {
+    "53": "coughing",
+    "status": "Respiratory"
+  },
+  {
+    "57": "sore",
+    "58": "throat",
+    "status": "ENT"
+  },
+  {
+    "62": "chest",
+    "63": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "65": "troubled",
+    "66": "breathing",
+    "status": "Respiratory"
+  },
+  {
+    "70": "abdominal",
+    "71": "symptoms",
+    "status": "Gastrointestinal"
+  },
+  {
+    "77": "abdominal",
+    "78": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "82": "urinary",
+    "83": "symptoms",
+    "status": "Genitourinary"
+  },
+  {
+    "85": "darkening",
+    "86": "of",
+    "87": "the",
+    "88": "skin",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "85": "darkening",
+    "86": "of",
+    "87": "the",
+    "88": "skin",
+    "89": "or",
+    "90": "eyes",
+    "status": "Eyes"
+  },
+  {
+    "94": "yellowing",
+    "95": "or",
+    "96": "darkening",
+    "97": "of",
+    "98": "the",
+    "99": "urine",
+    "status": "Genitourinary"
+  },
+  {
+    "103": "rash",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "110": "local",
+    "111": "infection",
+    "status": "Integumentary/Breast"
+  }
+]

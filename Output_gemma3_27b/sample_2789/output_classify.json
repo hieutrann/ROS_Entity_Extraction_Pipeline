@@ -1,0 +1,94 @@
+[
+  {
+    "11": "migraine",
+    "12": "headaches",
+    "status": "Neurological"
+  },
+  {
+    "26": "floaters",
+    "status": "Eyes"
+  },
+  {
+    "31": "temperature",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "39": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "40": "scratchy",
+    "41": "throat",
+    "status": "ENT"
+  },
+  {
+    "52": "right",
+    "53": "calf",
+    "54": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "65": "Homans",
+    "66": "sign",
+    "status": "Musculoskeletal"
+  },
+  {
+    "71": "cardiopulmonary",
+    "72": "symptoms",
+    "status": "Cardiovascular & Respiratory"
+  },
+  {
+    "75": "chest",
+    "76": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "77": "palpitation",
+    "status": "Cardiovascular"
+  },
+  {
+    "98": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "99": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "101": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "106": "constipated",
+    "status": "Gastrointestinal"
+  },
+  {
+    "120": "urinary",
+    "121": "symptoms",
+    "status": "Genitourinary"
+  },
+  {
+    "124": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "125": "urinary",
+    "126": "frequency",
+    "status": "Genitourinary"
+  },
+  {
+    "127": "incomplete",
+    "128": "bladder",
+    "129": "emptying",
+    "status": "Genitourinary"
+  },
+  {
+    "131": "voiding",
+    "132": "difficulties",
+    "status": "Genitourinary"
+  },
+  {
+    "151": "pregnant",
+    "status": "Constitutional Symptoms"
+  }
+]

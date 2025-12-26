@@ -1,0 +1,45 @@
+[
+  {
+    "3": "Dyspnea",
+    "status": "Respiratory"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "10": "tightness",
+    "status": "None"
+  },
+  {
+    "11": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "12": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "13": "sweats",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "14": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "15": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "17": "wheeze",
+    "status": "Respiratory"
+  },
+  {
+    "19": "lower",
+    "20": "extremity",
+    "21": "swelling",
+    "status": "Musculoskeletal"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "7": "fever",
+    "status": "negative"
+  },
+  {
+    "8": "chills",
+    "status": "negative"
+  },
+  {
+    "9": "ulcers",
+    "status": "negative"
+  },
+  {
+    "10": "liver",
+    "11": "disease",
+    "status": "negative"
+  },
+  {
+    "15": "gallstones",
+    "status": "negative"
+  }
+]

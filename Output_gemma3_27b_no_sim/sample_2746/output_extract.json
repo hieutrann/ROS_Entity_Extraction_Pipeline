@@ -1,0 +1,162 @@
+[
+  {
+    "10": "fatigue",
+    "status": "positive"
+  },
+  {
+    "235": "weakness",
+    "status": "positive"
+  },
+  {
+    "39": "fever",
+    "status": "negative"
+  },
+  {
+    "41": "chills",
+    "status": "negative"
+  },
+  {
+    "54": "headache",
+    "status": "negative"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "negative"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "negative"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "negative"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "negative"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "negative"
+  },
+  {
+    "114": "shortness",
+    "115": "of",
+    "116": "breath",
+    "status": "positive"
+  },
+  {
+    "90": "cough",
+    "status": "negative"
+  },
+  {
+    "102": "wheeze",
+    "status": "positive"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "negative"
+  },
+  {
+    "137": "nausea",
+    "status": "negative"
+  },
+  {
+    "139": "vomiting",
+    "status": "negative"
+  },
+  {
+    "151": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "153": "constipation",
+    "status": "negative"
+  },
+  {
+    "155": "melena",
+    "status": "negative"
+  },
+  {
+    "157": "hematochezia",
+    "status": "negative"
+  },
+  {
+    "160": "dysuria",
+    "status": "negative"
+  },
+  {
+    "161": "hematuria",
+    "status": "negative"
+  },
+  {
+    "162": "urgency",
+    "status": "negative"
+  },
+  {
+    "164": "frequency",
+    "status": "negative"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "172": "joint",
+    "173": "aches",
+    "status": "negative"
+  },
+  {
+    "186": "rashes",
+    "status": "negative"
+  },
+  {
+    "188": "lesions",
+    "status": "negative"
+  },
+  {
+    "221": "dizziness",
+    "status": "positive"
+  },
+  {
+    "226": "syncope",
+    "status": "negative"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "status": "negative"
+  },
+  {
+    "237": "numbness",
+    "status": "negative"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "negative"
+  },
+  {
+    "260": "depression",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "265": "cold",
+    "266": "intolerance",
+    "status": "negative"
+  }
+]

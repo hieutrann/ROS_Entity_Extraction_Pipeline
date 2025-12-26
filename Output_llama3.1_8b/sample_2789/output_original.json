@@ -1,0 +1,97 @@
+[
+  {
+    "extract": "migraine headaches",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "low-grade temperature",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "scratchy throat",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "right calf pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitation",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pain in the upper neck and down to her arm",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "difficulty breathing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "hemoptysis",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipation",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urinary frequency",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "incomplete bladder emptying",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "voiding difficulties",
+    "status": "negative",
+    "sys": "Genitourinary"
+  }
+]

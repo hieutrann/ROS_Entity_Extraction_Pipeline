@@ -1,0 +1,36 @@
+[
+  {
+    "5": "seizure",
+    "6": "disorder",
+    "status": "problem"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "problem"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "problem"
+  },
+  {
+    "16": "dysuria",
+    "status": "problem"
+  },
+  {
+    "17": "burning",
+    "18": "or",
+    "19": "pain",
+    "status": "problem"
+  },
+  {
+    "35": "nausea",
+    "status": "problem"
+  },
+  {
+    "37": "vomiting",
+    "status": "problem"
+  }
+]

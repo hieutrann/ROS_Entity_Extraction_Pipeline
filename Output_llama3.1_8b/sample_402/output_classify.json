@@ -1,0 +1,26 @@
+[
+  {
+    "7": "vomiting",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "nausea",
+    "status": "Neurological"
+  },
+  {
+    "7": "vomiting",
+    "status": "Musculoskeletal"
+  },
+  {
+    "6": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "7": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "9": "diarrhea",
+    "status": "Gastrointestinal"
+  }
+]

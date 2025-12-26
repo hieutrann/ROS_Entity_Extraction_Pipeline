@@ -1,0 +1,63 @@
+[
+  {
+    "15": "hearing",
+    "16": "loss",
+    "status": "ENT"
+  },
+  {
+    "21": "problems",
+    "22": "with",
+    "23": "swallowing",
+    "status": "ENT"
+  },
+  {
+    "28": "shortness",
+    "29": "of",
+    "30": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "39": "chronic",
+    "40": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "45": "bowel",
+    "46": "movements",
+    "status": "Gastrointestinal"
+  },
+  {
+    "49": "black",
+    "50": "or",
+    "51": "bloody",
+    "52": "stools",
+    "status": "Gastrointestinal"
+  },
+  {
+    "53": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "55": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "58": "blood",
+    "59": "in",
+    "60": "her",
+    "61": "urine",
+    "status": "Genitourinary"
+  },
+  {
+    "80": "edema",
+    "status": "Cardiovascular"
+  },
+  {
+    "82": "lower",
+    "83": "extremity",
+    "84": "numbness",
+    "85": "or",
+    "86": "tingling",
+    "status": "Neurological"
+  }
+]

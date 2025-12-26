@@ -1,0 +1,107 @@
+[
+  {
+    "18": "viral",
+    "19": "illness",
+    "status": "problem"
+  },
+  {
+    "28": "nausea",
+    "status": "problem"
+  },
+  {
+    "33": "vomiting",
+    "status": "problem"
+  },
+  {
+    "42": "fevers",
+    "status": "problem"
+  },
+  {
+    "43": "chills",
+    "status": "problem"
+  },
+  {
+    "45": "malaise",
+    "status": "problem"
+  },
+  {
+    "47": "headache",
+    "status": "problem"
+  },
+  {
+    "49": "congestion",
+    "50": "or",
+    "51": "cold",
+    "status": "problem"
+  },
+  {
+    "53": "coughing",
+    "status": "problem"
+  },
+  {
+    "57": "sore",
+    "58": "throat",
+    "status": "problem"
+  },
+  {
+    "62": "chest",
+    "63": "pain",
+    "status": "problem"
+  },
+  {
+    "65": "troubled",
+    "66": "breathing",
+    "status": "problem"
+  },
+  {
+    "70": "abdominal",
+    "71": "symptoms",
+    "status": "problem"
+  },
+  {
+    "77": "abdominal",
+    "78": "pain",
+    "status": "problem"
+  },
+  {
+    "82": "urinary",
+    "83": "symptoms",
+    "status": "problem"
+  },
+  {
+    "85": "darkening",
+    "86": "of",
+    "87": "the",
+    "88": "skin",
+    "89": "or",
+    "90": "eyes",
+    "status": "problem"
+  },
+  {
+    "94": "yellowing",
+    "95": "or",
+    "96": "darkening",
+    "97": "of",
+    "98": "the",
+    "99": "urine",
+    "status": "problem"
+  },
+  {
+    "103": "rash",
+    "104": "to",
+    "105": "the",
+    "106": "skin",
+    "status": "problem"
+  },
+  {
+    "110": "local",
+    "111": "infection",
+    "112": "at",
+    "113": "the",
+    "114": "side",
+    "115": "of",
+    "116": "the",
+    "117": "fingerstick",
+    "status": "problem"
+  }
+]

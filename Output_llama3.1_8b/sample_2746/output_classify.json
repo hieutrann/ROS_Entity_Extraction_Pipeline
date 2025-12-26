@@ -1,0 +1,180 @@
+[
+  {
+    "10": "fatigue",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "39": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "41": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "54": "headache",
+    "status": "Neurological"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "ENT"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "ENT"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "ENT"
+  },
+  {
+    "68": "vision",
+    "status": "Eyes"
+  },
+  {
+    "70": "hearing",
+    "71": "change",
+    "status": "ENT"
+  },
+  {
+    "73": "eye",
+    "74": "or",
+    "75": "ear",
+    "76": "pain",
+    "status": "Eyes"
+  },
+  {
+    "75": "ear",
+    "76": "pain",
+    "status": "ENT"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "86": "shortness",
+    "87": "of",
+    "88": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "92": "wheeze",
+    "status": "Respiratory"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "137": "nausea",
+    "138": "or",
+    "139": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "141": "change",
+    "142": "in",
+    "143": "the",
+    "144": "bowel",
+    "145": "movements",
+    "status": "Gastrointestinal"
+  },
+  {
+    "151": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "153": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "155": "melena",
+    "156": "or",
+    "157": "hematochezia",
+    "status": "Gastrointestinal"
+  },
+  {
+    "160": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "161": "hematuria",
+    "status": "Genitourinary"
+  },
+  {
+    "162": "urgency",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "164": "frequency",
+    "status": "Respiratory"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "170": "muscle",
+    "171": "or",
+    "172": "joint",
+    "173": "aches",
+    "status": "Musculoskeletal"
+  },
+  {
+    "193": "dizziness",
+    "status": "Neurological"
+  },
+  {
+    "226": "syncope",
+    "227": "or",
+    "228": "no",
+    "229": "near-syncope",
+    "status": "Cardiovascular"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "236": "or",
+    "237": "numbness",
+    "status": "Neurological"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "Neurological"
+  },
+  {
+    "242": "difficulty",
+    "243": "with",
+    "244": "ambulation",
+    "status": "Musculoskeletal"
+  },
+  {
+    "186": "rashes",
+    "187": "or",
+    "188": "lesions",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "260": "depression",
+    "status": "Psychiatric"
+  },
+  {
+    "263": "heat",
+    "264": "or",
+    "265": "cold",
+    "266": "intolerance",
+    "status": "Endocrine"
+  }
+]

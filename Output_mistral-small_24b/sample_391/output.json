@@ -1,0 +1,18 @@
+[
+  {
+    "16": "Allergies/Immune",
+    "status": "problem"
+  },
+  {
+    "12": "Neurologic",
+    "status": "problem"
+  },
+  {
+    "10": "Musculoskeletal",
+    "status": "problem"
+  },
+  {
+    "8": "GI",
+    "status": "problem"
+  }
+]

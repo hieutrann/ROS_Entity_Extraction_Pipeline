@@ -1,0 +1,26 @@
+[
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "6": "nausea",
+    "status": "negative"
+  },
+  {
+    "7": "vomiting",
+    "status": "negative"
+  },
+  {
+    "9": "diarrhea",
+    "status": "negative"
+  }
+]

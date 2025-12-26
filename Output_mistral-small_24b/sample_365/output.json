@@ -1,0 +1,90 @@
+[
+  {
+    "3": "General",
+    "status": "problem"
+  },
+  {
+    "11": "allergies",
+    "status": "problem"
+  },
+  {
+    "12": "sneezing",
+    "status": "problem"
+  },
+  {
+    "14": "sore",
+    "15": "throat",
+    "status": "problem"
+  },
+  {
+    "26": "cough",
+    "status": "problem"
+  },
+  {
+    "34": "chest",
+    "35": "pain",
+    "status": "problem"
+  },
+  {
+    "37": "palpitations",
+    "status": "problem"
+  },
+  {
+    "41": "hypertension",
+    "status": "problem"
+  },
+  {
+    "46": "abdominal",
+    "47": "pain",
+    "status": "problem"
+  },
+  {
+    "49": "blood",
+    "50": "in",
+    "51": "the",
+    "52": "stool",
+    "status": "problem"
+  },
+  {
+    "57": "dysuria",
+    "status": "problem"
+  },
+  {
+    "59": "frequency",
+    "status": "problem"
+  },
+  {
+    "67": "paresthesias",
+    "status": "problem"
+  },
+  {
+    "82": "shoulder",
+    "83": "pain",
+    "status": "problem"
+  },
+  {
+    "88": "insomnia",
+    "status": "problem"
+  },
+  {
+    "94": "spot",
+    "95": "on",
+    "96": "her",
+    "97": "right",
+    "98": "cheek",
+    "status": "problem"
+  },
+  {
+    "111": "hypothyroidism",
+    "status": "problem"
+  },
+  {
+    "116": "essential",
+    "117": "thrombocythemia",
+    "status": "problem"
+  },
+  {
+    "119": "anemia",
+    "status": "problem"
+  }
+]

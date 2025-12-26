@@ -1,0 +1,51 @@
+[
+  {
+    "5": "chest",
+    "6": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "8": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "14": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "16": "wheezing",
+    "status": "Respiratory"
+  },
+  {
+    "19": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "20": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "22": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "25": "nocturia",
+    "status": "Genitourinary"
+  },
+  {
+    "28": "gross",
+    "29": "hematuria",
+    "status": "Genitourinary"
+  },
+  {
+    "40": "old",
+    "41": "CVA",
+    "status": "Neurological"
+  }
+]

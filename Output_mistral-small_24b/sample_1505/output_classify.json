@@ -1,0 +1,63 @@
+[
+  {
+    "5": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "ENT",
+    "status": "ENT"
+  },
+  {
+    "11": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "13": "shortness",
+    "14": "of",
+    "15": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "20": "chest",
+    "21": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "24": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "26": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "30": "GI",
+    "31": "bleed",
+    "status": "Gastrointestinal"
+  },
+  {
+    "34": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "36": "hematuria",
+    "status": "Genitourinary"
+  },
+  {
+    "40": "diabetes",
+    "status": "Endocrine"
+  },
+  {
+    "42": "thyroid",
+    "43": "problems",
+    "status": "Endocrine"
+  },
+  {
+    "48": "CVA",
+    "status": "Neurological"
+  },
+  {
+    "50": "TIA",
+    "status": "Neurological"
+  }
+]

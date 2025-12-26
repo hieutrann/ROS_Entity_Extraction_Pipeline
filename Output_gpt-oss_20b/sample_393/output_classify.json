@@ -1,0 +1,228 @@
+[
+  {
+    "3": "General",
+    "status": "None"
+  },
+  {
+    "5": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "night",
+    "9": "sweats",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "12": "HEENT",
+    "status": "ENT"
+  },
+  {
+    "14": "sudden",
+    "15": "blindness",
+    "status": "Eyes"
+  },
+  {
+    "16": "diplopia",
+    "status": "Eyes"
+  },
+  {
+    "17": "loss",
+    "18": "of",
+    "19": "vision",
+    "status": "Eyes"
+  },
+  {
+    "29": "hearing",
+    "30": "changes",
+    "status": "ENT"
+  },
+  {
+    "32": "ear",
+    "33": "problems",
+    "status": "ENT"
+  },
+  {
+    "35": "swallowing",
+    "36": "problems",
+    "status": "ENT"
+  },
+  {
+    "38": "mouth",
+    "39": "lesions",
+    "status": "ENT"
+  },
+  {
+    "40": "Endocrine",
+    "status": "None"
+  },
+  {
+    "41": "Hypothyroidism",
+    "status": "Endocrine"
+  },
+  {
+    "44": "polyuria",
+    "status": "Genitourinary"
+  },
+  {
+    "46": "polydipsia",
+    "status": "Endocrine"
+  },
+  {
+    "58": "Respiratory",
+    "status": "None"
+  },
+  {
+    "60": "shortness",
+    "61": "of",
+    "62": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "63": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "64": "sputum",
+    "65": "production",
+    "status": "Respiratory"
+  },
+  {
+    "66": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "68": "breathing",
+    "69": "problems",
+    "status": "Respiratory"
+  },
+  {
+    "70": "Cardiovascular",
+    "status": "Cardiovascular"
+  },
+  {
+    "72": "chest",
+    "73": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "75": "chest",
+    "76": "discomfort",
+    "status": "Cardiovascular"
+  },
+  {
+    "78": "paroxysmal",
+    "79": "nocturnal",
+    "80": "dyspnea",
+    "status": "Respiratory"
+  },
+  {
+    "81": "orthopnea",
+    "status": "Respiratory"
+  },
+  {
+    "82": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "84": "heart",
+    "85": "attacks",
+    "status": "Cardiovascular"
+  },
+  {
+    "86": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "91": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "99": "Clostridium",
+    "100": "difficile",
+    "101": "colitis",
+    "status": "Gastrointestinal"
+  },
+  {
+    "111": "irritable",
+    "112": "bowel",
+    "113": "syndrome",
+    "status": "Gastrointestinal"
+  },
+  {
+    "115": "bowel",
+    "116": "abnormalities",
+    "status": "Gastrointestinal"
+  },
+  {
+    "119": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "121": "urinary",
+    "122": "problems",
+    "status": "Genitourinary"
+  },
+  {
+    "123": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "127": "kidney",
+    "128": "stones",
+    "status": "Genitourinary"
+  },
+  {
+    "130": "recent",
+    "131": "infections",
+    "status": "None"
+  },
+  {
+    "133": "vaginal",
+    "134": "bleeding",
+    "status": "Genitourinary"
+  },
+  {
+    "136": "discharge",
+    "status": "ENT"
+  },
+  {
+    "140": "Hematological",
+    "status": "None"
+  },
+  {
+    "145": "anemia",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "149": "Neurological",
+    "status": "Neurological"
+  },
+  {
+    "151": "blackouts",
+    "status": "Neurological"
+  },
+  {
+    "152": "convulsions",
+    "status": "Neurological"
+  },
+  {
+    "153": "seizures",
+    "status": "Neurological"
+  },
+  {
+    "154": "paralysis",
+    "status": "Neurological"
+  },
+  {
+    "155": "strokes",
+    "status": "Neurological"
+  },
+  {
+    "157": "headaches",
+    "status": "Neurological"
+  }
+]

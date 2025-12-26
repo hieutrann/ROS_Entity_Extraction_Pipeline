@@ -1,0 +1,45 @@
+[
+  {
+    "3": "Focal",
+    "4": "lateral",
+    "5": "and",
+    "6": "posterior",
+    "7": "shoulder",
+    "8": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "14": "cervical",
+    "15": "radiculopathies",
+    "status": "Neurological"
+  },
+  {
+    "20": "cardiac",
+    "status": "Cardiovascular"
+  },
+  {
+    "21": "pulmonary",
+    "status": "Respiratory"
+  },
+  {
+    "22": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "23": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "24": "neurologic",
+    "status": "Neurological"
+  },
+  {
+    "25": "musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "26": "endocrine",
+    "27": "abnormalities",
+    "status": "Endocrine"
+  }
+]

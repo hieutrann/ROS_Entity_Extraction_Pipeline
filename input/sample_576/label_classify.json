@@ -1,0 +1,23 @@
+[
+  {
+    "7": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "9": "ulcers",
+    "status": "Gastrointestinal"
+  },
+  {
+    "10": "liver",
+    "11": "disease",
+    "status": "Gastrointestinal"
+  },
+  {
+    "15": "gallstones",
+    "status": "Gastrointestinal"
+  }
+]

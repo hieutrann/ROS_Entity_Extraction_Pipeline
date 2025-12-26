@@ -1,0 +1,109 @@
+[
+  {
+    "4": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "5": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "shakes",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "tremors",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "10": "chest",
+    "11": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "12": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "13": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "14": "shortness",
+    "15": "of",
+    "16": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "17": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "18": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "19": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "20": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "22": "hematemesis",
+    "status": "Respiratory"
+  },
+  {
+    "35": "urological",
+    "36": "symptoms",
+    "status": "Genitourinary"
+  },
+  {
+    "39": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "40": "frequency",
+    "status": "Genitourinary"
+  },
+  {
+    "41": "incomplete",
+    "42": "bladder",
+    "43": "emptying",
+    "status": "Genitourinary"
+  },
+  {
+    "45": "voiding",
+    "46": "difficulties",
+    "status": "Genitourinary"
+  },
+  {
+    "56": "numbness",
+    "status": "Neurological"
+  },
+  {
+    "58": "tingling",
+    "status": "Neurological"
+  },
+  {
+    "67": "history",
+    "68": "of",
+    "69": "bilateral",
+    "70": "carpal",
+    "71": "tunnel",
+    "72": "syndrome",
+    "status": "Neurological"
+  },
+  {
+    "76": "history",
+    "77": "of",
+    "78": "seizure",
+    "79": "disorders",
+    "status": "Neurological"
+  },
+  {
+    "89": "dizziness",
+    "status": "Neurological"
+  }
+]

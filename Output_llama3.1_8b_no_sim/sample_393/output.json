@@ -1,0 +1,124 @@
+[
+  {
+    "5": "fever",
+    "status": "problem"
+  },
+  {
+    "6": "chills",
+    "status": "problem"
+  },
+  {
+    "8": "night",
+    "9": "sweats",
+    "status": "problem"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "problem"
+  },
+  {
+    "124": "polyuria",
+    "status": "problem"
+  },
+  {
+    "126": "polydipsia",
+    "status": "problem"
+  },
+  {
+    "60": "shortness",
+    "61": "of",
+    "62": "breath",
+    "status": "problem"
+  },
+  {
+    "63": "cough",
+    "status": "problem"
+  },
+  {
+    "64": "sputum",
+    "65": "production",
+    "status": "problem"
+  },
+  {
+    "66": "hemoptysis",
+    "status": "problem"
+  },
+  {
+    "68": "breathing",
+    "69": "problems",
+    "status": "problem"
+  },
+  {
+    "72": "chest",
+    "73": "pain",
+    "status": "problem"
+  },
+  {
+    "78": "paroxysmal",
+    "79": "nocturnal",
+    "80": "dyspnea",
+    "status": "problem"
+  },
+  {
+    "81": "orthopnea",
+    "status": "problem"
+  },
+  {
+    "82": "palpitations",
+    "status": "problem"
+  },
+  {
+    "84": "heart",
+    "85": "attacks",
+    "status": "problem"
+  },
+  {
+    "91": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "99": "Clostridium",
+    "100": "difficile",
+    "101": "colitis",
+    "status": "problem"
+  },
+  {
+    "111": "irritable",
+    "112": "bowel",
+    "113": "syndrome",
+    "status": "problem"
+  },
+  {
+    "115": "bowel",
+    "116": "abnormalities",
+    "status": "problem"
+  },
+  {
+    "145": "anemia",
+    "status": "problem"
+  },
+  {
+    "151": "blackouts",
+    "status": "problem"
+  },
+  {
+    "152": "convulsions",
+    "status": "problem"
+  },
+  {
+    "153": "seizures",
+    "status": "problem"
+  },
+  {
+    "154": "paralysis",
+    "status": "problem"
+  },
+  {
+    "155": "strokes",
+    "status": "problem"
+  },
+  {
+    "157": "headaches",
+    "status": "problem"
+  }
+]

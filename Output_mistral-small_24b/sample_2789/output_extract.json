@@ -1,0 +1,106 @@
+[
+  {
+    "11": "migraine",
+    "12": "headaches",
+    "status": "positive"
+  },
+  {
+    "26": "floaters",
+    "status": "positive"
+  },
+  {
+    "31": "temperature",
+    "status": "positive"
+  },
+  {
+    "39": "cough",
+    "status": "positive"
+  },
+  {
+    "41": "throat",
+    "status": "positive"
+  },
+  {
+    "53": "calf",
+    "54": "pain",
+    "status": "positive"
+  },
+  {
+    "65": "Homans",
+    "66": "sign",
+    "status": "negative"
+  },
+  {
+    "75": "chest",
+    "76": "pain",
+    "status": "negative"
+  },
+  {
+    "77": "palpitation",
+    "status": "negative"
+  },
+  {
+    "78": "pain",
+    "79": "in",
+    "80": "the",
+    "81": "upper",
+    "82": "neck",
+    "83": "and",
+    "84": "down",
+    "85": "to",
+    "86": "her",
+    "87": "arm",
+    "status": "negative"
+  },
+  {
+    "88": "difficulty",
+    "89": "breathing",
+    "status": "negative"
+  },
+  {
+    "90": "shortness",
+    "91": "of",
+    "92": "breath",
+    "status": "negative"
+  },
+  {
+    "94": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "98": "nausea",
+    "status": "negative"
+  },
+  {
+    "99": "vomiting",
+    "status": "negative"
+  },
+  {
+    "101": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "106": "constipated",
+    "status": "positive"
+  },
+  {
+    "124": "dysuria",
+    "status": "negative"
+  },
+  {
+    "125": "urinary",
+    "126": "frequency",
+    "status": "negative"
+  },
+  {
+    "127": "incomplete",
+    "128": "bladder",
+    "129": "emptying",
+    "status": "negative"
+  },
+  {
+    "131": "voiding",
+    "132": "difficulties",
+    "status": "negative"
+  }
+]

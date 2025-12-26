@@ -1,0 +1,76 @@
+[
+  {
+    "6": "fevers",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "headaches",
+    "status": "Neurological"
+  },
+  {
+    "10": "shortness",
+    "11": "of",
+    "12": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "15": "chest",
+    "16": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "18": "tightness",
+    "status": "None"
+  },
+  {
+    "20": "abdominal",
+    "21": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "23": "heartburn",
+    "status": "Gastrointestinal"
+  },
+  {
+    "25": "constipation",
+    "status": "Gastrointestinal"
+  },
+  {
+    "26": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "28": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "30": "stress",
+    "31": "incontinence",
+    "status": "Genitourinary"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Musculoskeletal"
+  },
+  {
+    "35": "joint",
+    "36": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "41": "skin",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "43": "polyphagia",
+    "status": "Endocrine"
+  },
+  {
+    "44": "polydipsia",
+    "status": "Endocrine"
+  },
+  {
+    "46": "polyuria",
+    "status": "Genitourinary"
+  }
+]

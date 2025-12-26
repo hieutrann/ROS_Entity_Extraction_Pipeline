@@ -1,0 +1,47 @@
+[
+  {
+    "unknown_entity": "over_detection",
+    "status": "Eyes"
+  },
+  {
+    "11": "visual",
+    "12": "acuity",
+    "status": "Eyes"
+  },
+  {
+    "14": "photophobia",
+    "status": "Eyes"
+  },
+  {
+    "25": "cardiac",
+    "status": "Cardiovascular"
+  },
+  {
+    "26": "pulmonary",
+    "status": "Respiratory"
+  },
+  {
+    "27": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "28": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "29": "neurologic",
+    "status": "Neurological"
+  },
+  {
+    "30": "musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "31": "endocrine",
+    "status": "Endocrine"
+  },
+  {
+    "32": "immunologic",
+    "status": "Allergic/Immunologic"
+  }
+]

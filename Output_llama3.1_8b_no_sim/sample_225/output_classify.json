@@ -1,0 +1,40 @@
+[
+  {
+    "4": "left",
+    "5": "eye",
+    "6": "pain",
+    "status": "Eyes"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Cardiovascular"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Respiratory"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Gastrointestinal"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Genitourinary"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Neurological"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Musculoskeletal"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Endocrine"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Allergic/Immunologic"
+  }
+]

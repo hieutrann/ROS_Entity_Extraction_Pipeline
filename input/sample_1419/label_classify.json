@@ -1,0 +1,46 @@
+[
+  {
+    "5": "seizure",
+    "6": "disorder",
+    "status": "Neurological"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "16": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "17": "burning",
+    "status": "Genitourinary"
+  },
+  {
+    "19": "pain",
+    "status": "Genitourinary"
+  },
+  {
+    "22": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "24": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "33": "history",
+    "34": "of",
+    "35": "nausea",
+    "36": "and",
+    "37": "vomiting",
+    "status": "Gastrointestinal"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "5": "weakness",
+    "status": "Musculoskeletal"
+  },
+  {
+    "6": "fatigue",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "tiredness",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "13": "cataract",
+    "status": "Eyes"
+  },
+  {
+    "15": "glaucoma",
+    "status": "Eyes"
+  },
+  {
+    "18": "congestive",
+    "19": "heart",
+    "20": "failure",
+    "status": "Cardiovascular"
+  },
+  {
+    "22": "arrhythmias",
+    "status": "Cardiovascular"
+  },
+  {
+    "27": "pneumonia",
+    "status": "Respiratory"
+  },
+  {
+    "29": "valley",
+    "30": "fever",
+    "status": "Respiratory"
+  },
+  {
+    "33": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "34": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "35": "hematemesis",
+    "status": "Gastrointestinal"
+  },
+  {
+    "37": "melena",
+    "status": "Gastrointestinal"
+  },
+  {
+    "40": "frequency",
+    "status": "Respiratory"
+  },
+  {
+    "42": "urgency",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "44": "Arthritis",
+    "status": "Musculoskeletal"
+  },
+  {
+    "46": "muscle",
+    "47": "weakness",
+    "status": "Musculoskeletal"
+  },
+  {
+    "52": "TIA",
+    "status": "Cardiovascular"
+  },
+  {
+    "54": "CVA",
+    "status": "Neurological"
+  },
+  {
+    "56": "seizure",
+    "57": "disorder",
+    "status": "Neurological"
+  }
+]

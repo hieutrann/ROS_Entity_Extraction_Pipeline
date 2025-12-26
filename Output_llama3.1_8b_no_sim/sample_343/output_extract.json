@@ -1,0 +1,72 @@
+[
+  {
+    "6": "fevers",
+    "status": "negative"
+  },
+  {
+    "8": "headaches",
+    "status": "negative"
+  },
+  {
+    "10": "shortness",
+    "11": "of",
+    "12": "breath",
+    "status": "negative"
+  },
+  {
+    "15": "chest",
+    "16": "pain",
+    "17": "or",
+    "18": "tightness",
+    "status": "negative"
+  },
+  {
+    "20": "abdominal",
+    "21": "pain",
+    "status": "negative"
+  },
+  {
+    "23": "heartburn",
+    "status": "negative"
+  },
+  {
+    "25": "constipation",
+    "status": "negative"
+  },
+  {
+    "26": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "28": "dysuria",
+    "status": "negative"
+  },
+  {
+    "30": "stress",
+    "31": "incontinence",
+    "status": "positive"
+  },
+  {
+    "33": "muscle",
+    "34": "or",
+    "35": "joint",
+    "36": "pain",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "43": "polyphagia",
+    "status": "negative"
+  },
+  {
+    "44": "polydipsia",
+    "status": "negative"
+  },
+  {
+    "46": "polyuria",
+    "status": "negative"
+  }
+]

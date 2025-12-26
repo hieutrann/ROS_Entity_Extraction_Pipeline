@@ -1,0 +1,26 @@
+[
+  {
+    "unknown_entity": "over_detection",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Neurological"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Musculoskeletal"
+  },
+  {
+    "6": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "7": "vomiting",
+    "status": "Gastrointestinal"
+  },
+  {
+    "9": "diarrhea",
+    "status": "Gastrointestinal"
+  }
+]

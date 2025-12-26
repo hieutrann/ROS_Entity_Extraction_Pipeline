@@ -1,0 +1,50 @@
+[
+  {
+    "5": "chest",
+    "6": "pain",
+    "status": "negative"
+  },
+  {
+    "8": "palpitations",
+    "status": "negative"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "negative"
+  },
+  {
+    "14": "cough",
+    "status": "negative"
+  },
+  {
+    "16": "wheezing",
+    "status": "negative"
+  },
+  {
+    "19": "nausea",
+    "status": "negative"
+  },
+  {
+    "20": "vomiting",
+    "status": "negative"
+  },
+  {
+    "22": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "25": "nocturia",
+    "status": "negative"
+  },
+  {
+    "28": "gross",
+    "29": "hematuria",
+    "status": "negative"
+  },
+  {
+    "41": "CVA",
+    "status": "positive"
+  }
+]

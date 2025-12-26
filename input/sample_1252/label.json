@@ -1,0 +1,47 @@
+[
+  {
+    "4": "fever",
+    "status": "problem"
+  },
+  {
+    "6": "chills",
+    "status": "problem"
+  },
+  {
+    "8": "sinus",
+    "9": "congestion",
+    "status": "problem"
+  },
+  {
+    "11": "nasal",
+    "12": "drainage",
+    "status": "problem"
+  },
+  {
+    "14": "cough",
+    "status": "problem"
+  },
+  {
+    "16": "cold",
+    "17": "symptoms",
+    "status": "problem"
+  },
+  {
+    "19": "head",
+    "20": "trauma",
+    "status": "problem"
+  },
+  {
+    "21": "Mild",
+    "22": "nausea",
+    "status": "problem"
+  },
+  {
+    "24": "vomiting",
+    "status": "problem"
+  },
+  {
+    "26": "diarrhea",
+    "status": "problem"
+  }
+]

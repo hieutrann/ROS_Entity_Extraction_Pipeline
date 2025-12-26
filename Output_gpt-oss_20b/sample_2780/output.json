@@ -1,0 +1,32 @@
+[
+  {
+    "6": "chest",
+    "7": "pain",
+    "status": "problem"
+  },
+  {
+    "11": "exertional",
+    "12": "shortness",
+    "13": "of",
+    "14": "breath",
+    "status": "problem"
+  },
+  {
+    "18": "GI",
+    "19": "problems",
+    "status": "problem"
+  },
+  {
+    "23": "frequent",
+    "24": "urination",
+    "status": "problem"
+  },
+  {
+    "30": "bleeding",
+    "31": "disorders",
+    "32": "or",
+    "33": "bleeding",
+    "34": "history",
+    "status": "problem"
+  }
+]

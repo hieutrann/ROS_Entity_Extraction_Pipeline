@@ -1,0 +1,47 @@
+[
+  {
+    "extract": "dyspnea on exertion",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "sweats",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "hemoptysis",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "wheeze",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "lower extremity swelling",
+    "status": "negative",
+    "sys": "Genitourinary"
+  }
+]

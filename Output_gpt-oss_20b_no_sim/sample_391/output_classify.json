@@ -1,0 +1,58 @@
+[
+  {
+    "3": "Constitutional",
+    "status": "None"
+  },
+  {
+    "4": "Eyes",
+    "status": "None"
+  },
+  {
+    "5": "ENT/Mouth",
+    "status": "ENT"
+  },
+  {
+    "6": "Cardiovascular",
+    "status": "None"
+  },
+  {
+    "7": "Respiratory",
+    "status": "None"
+  },
+  {
+    "8": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "9": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "10": "Musculoskeletal",
+    "status": "None"
+  },
+  {
+    "11": "Skin/Breasts",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "12": "Neurologic",
+    "status": "None"
+  },
+  {
+    "13": "Psychiatric",
+    "status": "None"
+  },
+  {
+    "14": "Endocrine",
+    "status": "Endocrine"
+  },
+  {
+    "15": "Heme/Lymph",
+    "status": "None"
+  },
+  {
+    "16": "Allergies/Immune",
+    "status": "None"
+  }
+]

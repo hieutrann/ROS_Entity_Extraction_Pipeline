@@ -1,0 +1,47 @@
+[
+  {
+    "extract": "lateral and posterior shoulder pain",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "cervical radiculopathies",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "cardiac",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "pulmonary",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "neurologic",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "musculoskeletal",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "endocrine",
+    "status": "negative",
+    "sys": "None"
+  }
+]

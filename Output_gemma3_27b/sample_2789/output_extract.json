@@ -1,0 +1,94 @@
+[
+  {
+    "11": "migraine",
+    "12": "headaches",
+    "status": "positive"
+  },
+  {
+    "26": "floaters",
+    "status": "positive"
+  },
+  {
+    "31": "temperature",
+    "status": "positive"
+  },
+  {
+    "39": "cough",
+    "status": "positive"
+  },
+  {
+    "40": "scratchy",
+    "41": "throat",
+    "status": "positive"
+  },
+  {
+    "52": "right",
+    "53": "calf",
+    "54": "pain",
+    "status": "positive"
+  },
+  {
+    "65": "Homans",
+    "66": "sign",
+    "status": "negative"
+  },
+  {
+    "71": "cardiopulmonary",
+    "72": "symptoms",
+    "status": "negative"
+  },
+  {
+    "75": "chest",
+    "76": "pain",
+    "status": "negative"
+  },
+  {
+    "77": "palpitation",
+    "status": "negative"
+  },
+  {
+    "98": "nausea",
+    "status": "negative"
+  },
+  {
+    "99": "vomiting",
+    "status": "negative"
+  },
+  {
+    "101": "diarrhea",
+    "status": "negative"
+  },
+  {
+    "106": "constipated",
+    "status": "positive"
+  },
+  {
+    "120": "urinary",
+    "121": "symptoms",
+    "status": "negative"
+  },
+  {
+    "124": "dysuria",
+    "status": "negative"
+  },
+  {
+    "125": "urinary",
+    "126": "frequency",
+    "status": "negative"
+  },
+  {
+    "127": "incomplete",
+    "128": "bladder",
+    "129": "emptying",
+    "status": "negative"
+  },
+  {
+    "131": "voiding",
+    "132": "difficulties",
+    "status": "negative"
+  },
+  {
+    "151": "pregnant",
+    "status": "negative"
+  }
+]

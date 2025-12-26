@@ -1,0 +1,51 @@
+[
+  {
+    "5": "chest",
+    "6": "pain",
+    "status": "problem"
+  },
+  {
+    "8": "palpitations",
+    "status": "problem"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "problem"
+  },
+  {
+    "14": "cough",
+    "status": "problem"
+  },
+  {
+    "16": "wheezing",
+    "status": "problem"
+  },
+  {
+    "19": "nausea",
+    "status": "problem"
+  },
+  {
+    "20": "vomiting",
+    "status": "problem"
+  },
+  {
+    "22": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "25": "nocturia",
+    "status": "problem"
+  },
+  {
+    "28": "gross",
+    "29": "hematuria",
+    "status": "problem"
+  },
+  {
+    "40": "old",
+    "41": "CVA",
+    "status": "problem"
+  }
+]

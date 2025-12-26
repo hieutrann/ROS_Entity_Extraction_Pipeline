@@ -1,0 +1,117 @@
+[
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "shakes",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "tremors",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitations",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "hemoptysis",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipation",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "hematemesis",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "incomplete bladder emptying",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "voiding difficulties",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "seizure disorders",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "momentary dizziness",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "numbness",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "tingling",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "bilateral carpal tunnel syndrome",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "urological symptoms",
+    "status": "negative",
+    "sys": "None"
+  }
+]

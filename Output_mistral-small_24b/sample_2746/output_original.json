@@ -1,0 +1,222 @@
+[
+  {
+    "extract": "fatigue",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "weakness",
+    "status": "positive",
+    "sys": "None"
+  },
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "neck pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "rhinorrhea",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sinus congestion",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sore throat",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "vision change",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "hearing change",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "eye pain",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "ear pain",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "wheeze",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "bowel movements change",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipation",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "melena",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "hematochezia",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "hematuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urgency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "back pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "muscle aches",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "joint aches",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "body pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "rash",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "lesion",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "dizziness",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "syncope",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "near-syncope",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "focal weakness",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "numbness",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "speech change",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "difficulty with ambulation",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "depression",
+    "status": "negative",
+    "sys": "Psychiatric"
+  },
+  {
+    "extract": "heat intolerance",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "cold intolerance",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  }
+]

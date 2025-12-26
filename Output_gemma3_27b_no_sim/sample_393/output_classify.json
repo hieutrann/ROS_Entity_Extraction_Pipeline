@@ -1,0 +1,199 @@
+[
+  {
+    "5": "fever",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "6": "chills",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "8": "night",
+    "9": "sweats",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "15": "blindness",
+    "status": "Eyes"
+  },
+  {
+    "16": "diplopia",
+    "status": "Eyes"
+  },
+  {
+    "17": "loss",
+    "18": "of",
+    "19": "vision",
+    "status": "Eyes"
+  },
+  {
+    "29": "hearing",
+    "30": "changes",
+    "status": "ENT"
+  },
+  {
+    "32": "ear",
+    "33": "problems",
+    "status": "ENT"
+  },
+  {
+    "35": "swallowing",
+    "36": "problems",
+    "status": "Gastrointestinal"
+  },
+  {
+    "38": "mouth",
+    "39": "lesions",
+    "status": "ENT"
+  },
+  {
+    "41": "Hypothyroidism",
+    "status": "Endocrine"
+  },
+  {
+    "124": "polyuria",
+    "status": "Genitourinary"
+  },
+  {
+    "126": "polydipsia",
+    "status": "Endocrine"
+  },
+  {
+    "60": "shortness",
+    "61": "of",
+    "62": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "63": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "64": "sputum",
+    "65": "production",
+    "status": "Respiratory"
+  },
+  {
+    "66": "hemoptysis",
+    "status": "Respiratory"
+  },
+  {
+    "68": "breathing",
+    "69": "problems",
+    "status": "Respiratory"
+  },
+  {
+    "72": "chest",
+    "73": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "75": "chest",
+    "76": "discomfort",
+    "status": "Cardiovascular"
+  },
+  {
+    "78": "paroxysmal",
+    "79": "nocturnal",
+    "80": "dyspnea",
+    "status": "Respiratory"
+  },
+  {
+    "81": "orthopnea",
+    "status": "Respiratory"
+  },
+  {
+    "82": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "84": "heart",
+    "85": "attacks",
+    "status": "Cardiovascular"
+  },
+  {
+    "91": "diarrhea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "99": "Clostridium",
+    "100": "difficile",
+    "101": "colitis",
+    "status": "Gastrointestinal"
+  },
+  {
+    "111": "irritable",
+    "112": "bowel",
+    "113": "syndrome",
+    "status": "Gastrointestinal"
+  },
+  {
+    "115": "bowel",
+    "116": "abnormalities",
+    "status": "Gastrointestinal"
+  },
+  {
+    "121": "urinary",
+    "122": "problems",
+    "status": "Genitourinary"
+  },
+  {
+    "123": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "124": "polyuria",
+    "status": "Genitourinary"
+  },
+  {
+    "126": "polydipsia",
+    "status": "Endocrine"
+  },
+  {
+    "127": "kidney",
+    "128": "stones",
+    "status": "Genitourinary"
+  },
+  {
+    "130": "recent",
+    "131": "infections",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "133": "vaginal",
+    "134": "bleeding",
+    "status": "Genitourinary"
+  },
+  {
+    "136": "discharge",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "145": "anemia",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "151": "blackouts",
+    "status": "Neurological"
+  },
+  {
+    "152": "convulsions",
+    "status": "Neurological"
+  },
+  {
+    "153": "seizures",
+    "status": "Neurological"
+  },
+  {
+    "154": "paralysis",
+    "status": "Neurological"
+  },
+  {
+    "155": "strokes",
+    "status": "Neurological"
+  },
+  {
+    "157": "headaches",
+    "status": "Neurological"
+  }
+]

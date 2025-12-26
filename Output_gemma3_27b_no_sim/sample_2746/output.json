@@ -1,0 +1,162 @@
+[
+  {
+    "10": "fatigue",
+    "status": "problem"
+  },
+  {
+    "235": "weakness",
+    "status": "problem"
+  },
+  {
+    "39": "fever",
+    "status": "problem"
+  },
+  {
+    "41": "chills",
+    "status": "problem"
+  },
+  {
+    "54": "headache",
+    "status": "problem"
+  },
+  {
+    "56": "neck",
+    "57": "pain",
+    "status": "problem"
+  },
+  {
+    "59": "rhinorrhea",
+    "status": "problem"
+  },
+  {
+    "61": "sinus",
+    "62": "congestion",
+    "status": "problem"
+  },
+  {
+    "64": "sore",
+    "65": "throat",
+    "status": "problem"
+  },
+  {
+    "82": "chest",
+    "83": "pain",
+    "status": "problem"
+  },
+  {
+    "114": "shortness",
+    "115": "of",
+    "116": "breath",
+    "status": "problem"
+  },
+  {
+    "90": "cough",
+    "status": "problem"
+  },
+  {
+    "102": "wheeze",
+    "status": "problem"
+  },
+  {
+    "134": "abdominal",
+    "135": "pain",
+    "status": "problem"
+  },
+  {
+    "137": "nausea",
+    "status": "problem"
+  },
+  {
+    "139": "vomiting",
+    "status": "problem"
+  },
+  {
+    "151": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "153": "constipation",
+    "status": "problem"
+  },
+  {
+    "155": "melena",
+    "status": "problem"
+  },
+  {
+    "157": "hematochezia",
+    "status": "problem"
+  },
+  {
+    "160": "dysuria",
+    "status": "problem"
+  },
+  {
+    "161": "hematuria",
+    "status": "problem"
+  },
+  {
+    "162": "urgency",
+    "status": "problem"
+  },
+  {
+    "164": "frequency",
+    "status": "problem"
+  },
+  {
+    "167": "back",
+    "168": "pain",
+    "status": "problem"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "problem"
+  },
+  {
+    "172": "joint",
+    "173": "aches",
+    "status": "problem"
+  },
+  {
+    "186": "rashes",
+    "status": "problem"
+  },
+  {
+    "188": "lesions",
+    "status": "problem"
+  },
+  {
+    "221": "dizziness",
+    "status": "problem"
+  },
+  {
+    "226": "syncope",
+    "status": "problem"
+  },
+  {
+    "234": "focal",
+    "235": "weakness",
+    "status": "problem"
+  },
+  {
+    "237": "numbness",
+    "status": "problem"
+  },
+  {
+    "239": "speech",
+    "240": "change",
+    "status": "problem"
+  },
+  {
+    "260": "depression",
+    "status": "problem"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "problem"
+  },
+  {
+    "265": "cold",
+    "266": "intolerance",
+    "status": "problem"
+  }
+]

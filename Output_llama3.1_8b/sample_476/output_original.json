@@ -1,0 +1,57 @@
+[
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitations",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "wheezing",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "nocturia",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "gross hematuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "CVA",
+    "status": "positive (history)",
+    "sys": "Neurological"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "extract": "seizure disorder",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "burning",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "nausea",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "positive",
+    "sys": "Gastrointestinal"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "extract": "left eye pain",
+    "status": "positive",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "cardiac system",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "pulmonary system",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GI system",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GU system",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "neurologic system",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "musculoskeletal system",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "endocrine system",
+    "status": "negative",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "immunologic system",
+    "status": "negative",
+    "sys": "Allergic/Immunologic"
+  }
+]

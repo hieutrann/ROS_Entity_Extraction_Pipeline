@@ -1,0 +1,32 @@
+[
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "back pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "nausea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "3": "Constitutional",
+    "status": "Constitutional Symptoms"
+  },
+  {
+    "4": "Eyes",
+    "status": "Eyes"
+  },
+  {
+    "5": "ENT/Mouth",
+    "status": "ENT"
+  },
+  {
+    "6": "Cardiovascular",
+    "status": "Cardiovascular"
+  },
+  {
+    "7": "Respiratory",
+    "status": "Respiratory"
+  },
+  {
+    "8": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "9": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "10": "Musculoskeletal",
+    "status": "Musculoskeletal"
+  },
+  {
+    "11": "Skin/Breasts",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "12": "Neurologic",
+    "status": "Neurological"
+  },
+  {
+    "13": "Psychiatric",
+    "status": "Psychiatric"
+  },
+  {
+    "14": "Endocrine",
+    "status": "Endocrine"
+  },
+  {
+    "15": "Heme/Lymph",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "16": "Allergies/Immune",
+    "status": "Eyes"
+  }
+]

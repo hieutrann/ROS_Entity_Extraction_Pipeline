@@ -1,0 +1,43 @@
+[
+  {
+    "3": "Dyspnea",
+    "4": "on",
+    "5": "exertion",
+    "status": "problem"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "problem"
+  },
+  {
+    "11": "fever",
+    "status": "problem"
+  },
+  {
+    "12": "chills",
+    "status": "problem"
+  },
+  {
+    "13": "sweats",
+    "status": "problem"
+  },
+  {
+    "14": "cough",
+    "status": "problem"
+  },
+  {
+    "15": "hemoptysis",
+    "status": "problem"
+  },
+  {
+    "17": "wheeze",
+    "status": "problem"
+  },
+  {
+    "19": "lower",
+    "20": "extremity",
+    "21": "swelling",
+    "status": "problem"
+  }
+]

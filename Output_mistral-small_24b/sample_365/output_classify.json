@@ -1,0 +1,90 @@
+[
+  {
+    "3": "General",
+    "status": "None"
+  },
+  {
+    "11": "allergies",
+    "status": "Allergic/Immunologic"
+  },
+  {
+    "12": "sneezing",
+    "status": "ENT"
+  },
+  {
+    "14": "sore",
+    "15": "throat",
+    "status": "ENT"
+  },
+  {
+    "26": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "34": "chest",
+    "35": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "37": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "41": "hypertension",
+    "status": "Cardiovascular"
+  },
+  {
+    "46": "abdominal",
+    "47": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "49": "blood",
+    "50": "in",
+    "51": "the",
+    "52": "stool",
+    "status": "Gastrointestinal"
+  },
+  {
+    "57": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "59": "frequency",
+    "status": "None"
+  },
+  {
+    "67": "paresthesias",
+    "status": "Neurological"
+  },
+  {
+    "82": "shoulder",
+    "83": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "88": "insomnia",
+    "status": "Psychiatric"
+  },
+  {
+    "94": "spot",
+    "95": "on",
+    "96": "her",
+    "97": "right",
+    "98": "cheek",
+    "status": "None"
+  },
+  {
+    "111": "hypothyroidism",
+    "status": "Endocrine"
+  },
+  {
+    "116": "essential",
+    "117": "thrombocythemia",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "119": "anemia",
+    "status": "Hematologic/Lymphatic"
+  }
+]

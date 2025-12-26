@@ -1,0 +1,124 @@
+[
+  {
+    "5": "fever",
+    "status": "negative"
+  },
+  {
+    "6": "chills",
+    "status": "negative"
+  },
+  {
+    "8": "night",
+    "9": "sweats",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "positive"
+  },
+  {
+    "124": "polyuria",
+    "status": "negative"
+  },
+  {
+    "126": "polydipsia",
+    "status": "negative"
+  },
+  {
+    "60": "shortness",
+    "61": "of",
+    "62": "breath",
+    "status": "negative"
+  },
+  {
+    "63": "cough",
+    "status": "negative"
+  },
+  {
+    "64": "sputum",
+    "65": "production",
+    "status": "negative"
+  },
+  {
+    "66": "hemoptysis",
+    "status": "negative"
+  },
+  {
+    "68": "breathing",
+    "69": "problems",
+    "status": "negative"
+  },
+  {
+    "72": "chest",
+    "73": "pain",
+    "status": "negative"
+  },
+  {
+    "78": "paroxysmal",
+    "79": "nocturnal",
+    "80": "dyspnea",
+    "status": "negative"
+  },
+  {
+    "81": "orthopnea",
+    "status": "negative"
+  },
+  {
+    "82": "palpitations",
+    "status": "negative"
+  },
+  {
+    "84": "heart",
+    "85": "attacks",
+    "status": "negative"
+  },
+  {
+    "91": "diarrhea",
+    "status": "positive"
+  },
+  {
+    "99": "Clostridium",
+    "100": "difficile",
+    "101": "colitis",
+    "status": "resolved"
+  },
+  {
+    "111": "irritable",
+    "112": "bowel",
+    "113": "syndrome",
+    "status": "positive"
+  },
+  {
+    "115": "bowel",
+    "116": "abnormalities",
+    "status": "positive"
+  },
+  {
+    "145": "anemia",
+    "status": "positive"
+  },
+  {
+    "151": "blackouts",
+    "status": "negative"
+  },
+  {
+    "152": "convulsions",
+    "status": "negative"
+  },
+  {
+    "153": "seizures",
+    "status": "negative"
+  },
+  {
+    "154": "paralysis",
+    "status": "negative"
+  },
+  {
+    "155": "strokes",
+    "status": "negative"
+  },
+  {
+    "157": "headaches",
+    "status": "negative"
+  }
+]

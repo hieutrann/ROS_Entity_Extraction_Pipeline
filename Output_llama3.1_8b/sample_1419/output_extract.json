@@ -1,0 +1,36 @@
+[
+  {
+    "5": "seizure",
+    "6": "disorder",
+    "status": "negative"
+  },
+  {
+    "7": "chest",
+    "8": "pain",
+    "status": "negative"
+  },
+  {
+    "11": "shortness",
+    "12": "of",
+    "13": "breath",
+    "status": "negative"
+  },
+  {
+    "16": "dysuria",
+    "status": "negative"
+  },
+  {
+    "17": "burning",
+    "18": "or",
+    "19": "pain",
+    "status": "negative"
+  },
+  {
+    "22": "nausea",
+    "status": "positive"
+  },
+  {
+    "24": "vomiting",
+    "status": "positive"
+  }
+]

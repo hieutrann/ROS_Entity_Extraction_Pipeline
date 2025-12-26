@@ -1,0 +1,46 @@
+[
+  {
+    "4": "left",
+    "5": "eye",
+    "6": "pain",
+    "status": "positive"
+  },
+  {
+    "23": "systems",
+    "24": "for",
+    "25": "cardiac",
+    "status": "negative"
+  },
+  {
+    "23": "systems",
+    "24": "for",
+    "25": "cardiac",
+    "26": "pulmonary",
+    "status": "negative"
+  },
+  {
+    "27": "GI",
+    "status": "negative"
+  },
+  {
+    "28": "GU",
+    "status": "negative"
+  },
+  {
+    "29": "neurologic",
+    "status": "negative"
+  },
+  {
+    "30": "musculoskeletal",
+    "status": "negative"
+  },
+  {
+    "31": "endocrine",
+    "status": "negative"
+  },
+  {
+    "32": "immunologic",
+    "33": "systems",
+    "status": "negative"
+  }
+]

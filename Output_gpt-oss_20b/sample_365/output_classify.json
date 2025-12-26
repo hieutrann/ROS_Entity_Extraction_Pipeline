@@ -1,0 +1,140 @@
+[
+  {
+    "3": "General",
+    "status": "None"
+  },
+  {
+    "5": "HEENT",
+    "status": "None"
+  },
+  {
+    "11": "allergies",
+    "status": "Allergic/Immunologic"
+  },
+  {
+    "12": "sneezing",
+    "status": "ENT"
+  },
+  {
+    "14": "sore",
+    "15": "throat",
+    "status": "ENT"
+  },
+  {
+    "19": "Pulmonary",
+    "status": "None"
+  },
+  {
+    "26": "cough",
+    "status": "Respiratory"
+  },
+  {
+    "30": "Cardiovascular",
+    "status": "None"
+  },
+  {
+    "34": "chest",
+    "35": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "37": "palpitations",
+    "status": "Cardiovascular"
+  },
+  {
+    "41": "hypertension",
+    "status": "Cardiovascular"
+  },
+  {
+    "42": "GI",
+    "status": "Gastrointestinal"
+  },
+  {
+    "46": "abdominal",
+    "47": "pain",
+    "status": "Gastrointestinal"
+  },
+  {
+    "49": "blood",
+    "50": "in",
+    "51": "the",
+    "52": "stool",
+    "status": "Gastrointestinal"
+  },
+  {
+    "53": "GU",
+    "status": "Genitourinary"
+  },
+  {
+    "57": "dysuria",
+    "status": "Genitourinary"
+  },
+  {
+    "59": "frequency",
+    "status": "None"
+  },
+  {
+    "63": "Neurologic",
+    "status": "None"
+  },
+  {
+    "67": "paresthesias",
+    "68": "to",
+    "69": "the",
+    "70": "toes",
+    "71": "of",
+    "72": "both",
+    "73": "feet",
+    "status": "Neurological"
+  },
+  {
+    "78": "Musculoskeletal",
+    "status": "None"
+  },
+  {
+    "82": "shoulder",
+    "83": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "84": "Psychiatric",
+    "status": "None"
+  },
+  {
+    "88": "insomnia",
+    "status": "Psychiatric"
+  },
+  {
+    "89": "Dermatologic",
+    "status": "None"
+  },
+  {
+    "94": "spot",
+    "95": "on",
+    "96": "her",
+    "97": "right",
+    "98": "cheek",
+    "status": "Integumentary/Breast"
+  },
+  {
+    "107": "Metabolic",
+    "status": "None"
+  },
+  {
+    "111": "hypothyroidism",
+    "status": "Endocrine"
+  },
+  {
+    "112": "Hematologic",
+    "status": "None"
+  },
+  {
+    "116": "essential",
+    "117": "thrombocythemia",
+    "status": "Hematologic/Lymphatic"
+  },
+  {
+    "119": "anemia",
+    "status": "Hematologic/Lymphatic"
+  }
+]

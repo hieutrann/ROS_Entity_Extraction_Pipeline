@@ -1,0 +1,41 @@
+[
+  {
+    "7": "shoulder",
+    "8": "pain",
+    "status": "positive"
+  },
+  {
+    "14": "cervical",
+    "15": "radiculopathies",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "negative"
+  },
+  {
+    "26": "endocrine",
+    "27": "abnormalities",
+    "status": "negative"
+  }
+]

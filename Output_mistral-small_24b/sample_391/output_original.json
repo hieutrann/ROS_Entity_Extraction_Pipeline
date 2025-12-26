@@ -1,0 +1,22 @@
+[
+  {
+    "extract": "fever",
+    "status": "positive",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "back pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "GI",
+    "status": "negative",
+    "sys": "None"
+  }
+]

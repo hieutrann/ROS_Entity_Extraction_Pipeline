@@ -1,0 +1,92 @@
+[
+  {
+    "extract": "allergies",
+    "status": "positive",
+    "sys": "Allergic/Immunologic"
+  },
+  {
+    "extract": "sneezing",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sore throat",
+    "status": "positive",
+    "sys": "ENT"
+  },
+  {
+    "extract": "cough",
+    "status": "positive",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "palpitations",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "hypertension",
+    "status": "positive",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "blood in the stool",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "paresthesias",
+    "status": "positive",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "shoulder pain",
+    "status": "positive",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "insomnia",
+    "status": "positive",
+    "sys": "Psychiatric"
+  },
+  {
+    "extract": "spot",
+    "status": "positive",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "hypothyroidism",
+    "status": "positive",
+    "sys": "Endocrine"
+  },
+  {
+    "extract": "essential thrombocythemia",
+    "status": "positive",
+    "sys": "Hematologic/Lymphatic"
+  },
+  {
+    "extract": "anemia",
+    "status": "positive",
+    "sys": "Hematologic/Lymphatic"
+  }
+]

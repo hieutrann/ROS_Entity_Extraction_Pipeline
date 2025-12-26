@@ -1,0 +1,252 @@
+[
+  {
+    "extract": "generalized fatigue",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "weakness",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "fever",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "chills",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "weight change",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "headache",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "neck pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "rhinorrhea",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sinus congestion",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "sore throat",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "vision or hearing change",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "eye or ear pain",
+    "status": "negative",
+    "sys": "Eyes"
+  },
+  {
+    "extract": "chest pain",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "shortness of breath",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "cough",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "wheeze",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "abdominal pain",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "nausea or vomiting",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "change in bowel movements",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "diarrhea",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "constipation",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "melena",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "hematochezia",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "dysuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "hematuria",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "urgency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "frequency",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "back pain",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "muscle or joint aches",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "pain or abnormalities to any portion of the body",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "rashes or lesions",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "dizziness",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "syncope",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "near-syncope",
+    "status": "negative",
+    "sys": "Cardiovascular"
+  },
+  {
+    "extract": "focal weakness or numbness",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "speech change",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "difficulty with ambulation",
+    "status": "negative",
+    "sys": "Musculoskeletal"
+  },
+  {
+    "extract": "depression",
+    "status": "negative",
+    "sys": "Psychiatric"
+  },
+  {
+    "extract": "heat or cold intolerance",
+    "status": "negative",
+    "sys": "Constitutional Symptoms"
+  },
+  {
+    "extract": "CONSTITUTIONAL",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "HEENT",
+    "status": "negative",
+    "sys": "ENT"
+  },
+  {
+    "extract": "CARDIOVASCULAR",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "RESPIRATIONS",
+    "status": "negative",
+    "sys": "Respiratory"
+  },
+  {
+    "extract": "GASTROINTESTINAL",
+    "status": "negative",
+    "sys": "Gastrointestinal"
+  },
+  {
+    "extract": "GENITOURINARY",
+    "status": "negative",
+    "sys": "Genitourinary"
+  },
+  {
+    "extract": "MUSCULOSKELETAL",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "SKIN",
+    "status": "negative",
+    "sys": "Integumentary/Breast"
+  },
+  {
+    "extract": "NEUROLOGIC",
+    "status": "negative",
+    "sys": "Neurological"
+  },
+  {
+    "extract": "PSYCHIATRIC",
+    "status": "negative",
+    "sys": "None"
+  },
+  {
+    "extract": "ENDOCRINE",
+    "status": "negative",
+    "sys": "None"
+  }
+]

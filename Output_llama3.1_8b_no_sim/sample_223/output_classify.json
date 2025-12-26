@@ -1,0 +1,41 @@
+[
+  {
+    "7": "shoulder",
+    "8": "pain",
+    "status": "Musculoskeletal"
+  },
+  {
+    "14": "cervical",
+    "15": "radiculopathies",
+    "status": "Musculoskeletal"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Cardiovascular"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Respiratory"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Gastrointestinal"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Genitourinary"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Neurological"
+  },
+  {
+    "unknown_entity": "over_detection",
+    "status": "Musculoskeletal"
+  },
+  {
+    "26": "endocrine",
+    "27": "abnormalities",
+    "status": "Endocrine"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "8": "pain",
+    "status": "Not Clear"
+  },
+  {
+    "11": "headache",
+    "status": "Neurological"
+  },
+  {
+    "13": "blurred",
+    "14": "vision",
+    "status": "Eyes"
+  },
+  {
+    "16": "chest",
+    "17": "pain",
+    "status": "Cardiovascular"
+  },
+  {
+    "19": "shortness",
+    "20": "of",
+    "21": "breath",
+    "status": "Respiratory"
+  },
+  {
+    "25": "nausea",
+    "status": "Gastrointestinal"
+  },
+  {
+    "27": "vomiting",
+    "status": "Gastrointestinal"
+  }
+]

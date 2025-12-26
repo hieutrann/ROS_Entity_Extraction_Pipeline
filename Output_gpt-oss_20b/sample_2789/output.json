@@ -1,0 +1,113 @@
+[
+  {
+    "11": "migraine",
+    "12": "headaches",
+    "status": "problem"
+  },
+  {
+    "26": "floaters",
+    "status": "problem"
+  },
+  {
+    "30": "low-grade",
+    "31": "temperature",
+    "status": "problem"
+  },
+  {
+    "37": "mild",
+    "38": "intermittent",
+    "39": "cough",
+    "status": "problem"
+  },
+  {
+    "40": "scratchy",
+    "41": "throat",
+    "status": "problem"
+  },
+  {
+    "51": "intermittent",
+    "52": "right",
+    "53": "calf",
+    "54": "pain",
+    "status": "problem"
+  },
+  {
+    "65": "Homans",
+    "66": "sign",
+    "status": "problem"
+  },
+  {
+    "75": "chest",
+    "76": "pain",
+    "status": "problem"
+  },
+  {
+    "77": "palpitation",
+    "status": "problem"
+  },
+  {
+    "78": "pain",
+    "79": "in",
+    "80": "the",
+    "81": "upper",
+    "82": "neck",
+    "83": "and",
+    "84": "down",
+    "status": "problem"
+  },
+  {
+    "88": "difficulty",
+    "89": "breathing",
+    "status": "problem"
+  },
+  {
+    "90": "shortness",
+    "91": "of",
+    "92": "breath",
+    "status": "problem"
+  },
+  {
+    "94": "hemoptysis",
+    "status": "problem"
+  },
+  {
+    "98": "nausea",
+    "status": "problem"
+  },
+  {
+    "99": "vomiting",
+    "status": "problem"
+  },
+  {
+    "101": "diarrhea",
+    "status": "problem"
+  },
+  {
+    "106": "constipated",
+    "status": "problem"
+  },
+  {
+    "124": "dysuria",
+    "status": "problem"
+  },
+  {
+    "125": "urinary",
+    "126": "frequency",
+    "status": "problem"
+  },
+  {
+    "127": "incomplete",
+    "128": "bladder",
+    "129": "emptying",
+    "status": "problem"
+  },
+  {
+    "131": "voiding",
+    "132": "difficulties",
+    "status": "problem"
+  },
+  {
+    "151": "pregnant",
+    "status": "problem"
+  }
+]
