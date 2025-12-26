@@ -6,11 +6,11 @@ Install ollama from https://ollama.com/download
 
 ### Model configuration files  
 For problem detection, negation detection & body system classification, model files are ros_classify and ros_extract. Create models by running the following script:
-
+```
 #!/bin/bash
 ollama create ros_extract -f ./ros_extract
 ollama create ros_classify -f ./ros_classify
-
+```
 ## Pipeline
 - label_processing.py -> pipeline.py -> evaluation.py (with attribution vs no attribution: indicated in filename)
 - pipeline.py is intended to run for each note (with --filename argument) - to carefully evaluate the LLM's behavior
